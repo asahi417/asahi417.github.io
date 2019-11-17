@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Asahi Ushio
 description: AI Researcher based on Tokyo/Japan
-logo: /assets/img/peofile.png
+logo: /assets/img/profile.png
 show_downloads: true
-google_analytics:
