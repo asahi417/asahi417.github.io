@@ -1,8 +1,7 @@
 # Asahi Ushio
 Tokyo-based AI Researcher, currently working at [Cogent Labs](https://www.cogent.co.jp/en/) as full-time researcher
 focusing on NLP (natural language processing).
-You can find my brief self-introduction here, and see my full CV ([pdf](assets/cv/cv_asahi.pdf), [download](https://drive.google.com/file/d/1O_NzwlS8B82aYppbDJBlKOGimmOVdvNg/view?usp=sharing)) 
-for more information. 
+You can find my brief self-introduction here, and see my [full CV](assets/cv/cv_asahi.pdf) for more information. 
 
 ## Research
 I work on natural language processing in general, but specifically focus on
