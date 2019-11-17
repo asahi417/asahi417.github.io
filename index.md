@@ -12,7 +12,7 @@ on 2018.
 
 ## Bio
 <dl>
-<dt>02/2018 -</dt>
+<dt>04/2018 -</dt>
 <dd>
 AI Researcher<br>
 Cogent Labs, Tokyo, Japan
