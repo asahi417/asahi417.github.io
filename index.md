@@ -20,7 +20,7 @@ Cogent Labs, Tokyo, Japan
 <dt>04/2016 - 03/2018</dt>
 <dd> Master Student  <br>
 Electrical Engineerings Department <br>
-Keio Universit, Japan <br>
+Keio University, Japan <br>
 Advisor: Masahiro Yukawa <br>
 Thesis: Projection-based Regularized Dual Averaging for Stochastic Optimization <br>
 Area of study: Stochastic optimization, Online learning, Sparsity-aware filtering
