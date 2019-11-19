@@ -28,7 +28,7 @@ Area of study: Stochastic optimization, Online learning, Sparsity-aware filterin
 <dt>04/2011 - 03/2016</dt>
 <dd> Undergrad Student  <br>
 Electrical Engineerings Department <br>
-Keio Universit, Japan <br>
+Keio University, Japan <br>
 Advisors: Masahiro Yukawa, Teruo Nakatsuma
 </dd>
 
