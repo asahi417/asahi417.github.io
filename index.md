@@ -1,10 +1,9 @@
 # Asahi Ushio
 Tokyo-based AI Researcher, currently working at [Cogent Labs](https://www.cogent.co.jp/en/) as full-time researcher
-focusing on NLP (natural language processing).
-You can find my brief self-introduction here, and see my [full CV](assets/cv/cv_asahi.pdf) for more information. 
+focusing on NLP (natural language processing). See my [full CV](assets/cv/cv_asahi.pdf) for more information. 
 
 ## Research
-I work on natural language processing in general, but specifically focus on
+I work on natural language processing in general, specifically focus on
 *natural language understanding*, *information retrieval*, *generative models*. 
 Previously, I had been studying stochastic optimization and sparsity-aware adaptive learning, supervised by 
 [Masahiro Yukawa](http://www.ykw.elec.keio.ac.jp/yukawa/) as my master research and received Master of Engineering from Keio University
@@ -22,14 +21,14 @@ Cogent Labs, Tokyo, Japan
 Electrical Engineerings Department <br>
 Keio University, Japan <br>
 Advisor: Masahiro Yukawa <br>
-Thesis: Projection-based Regularized Dual Averaging for Stochastic Optimization <br>
 Area of study: Stochastic optimization, Online learning, Sparsity-aware filtering
 </dd>
 <dt>04/2011 - 03/2016</dt>
 <dd> Undergrad Student  <br>
 Electrical Engineerings Department <br>
 Keio University, Japan <br>
-Advisors: Masahiro Yukawa, Teruo Nakatsuma
+Advisors: Masahiro Yukawa, Teruo Nakatsuma <br>
+Area of study: Multi-task learning, Bayesian forecasting
 </dd>
 
 </dl>
@@ -40,7 +39,7 @@ Advisors: Masahiro Yukawa, Teruo Nakatsuma
 "Projection-based Regularized Dual Averaging for Stochastic Optimization,"
 IEEE Trans. Signal Processing, vol.67, no.10, pp.2720--2733, May 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/8680689)
 
-- McAlinn, K., Ushio, A., and Nakatsuma, T.
+- Ken McAlinn, Asahi Ushio, and Teruo Nakatsuma,
 "Volatility Forecasts Using Nonlinear Leverage Effects,"
 Journal of Forecasting, 2019 (forthcoming). [pdf](https://arxiv.org/pdf/1605.06482.pdf)
 
@@ -49,6 +48,11 @@ Journal of Forecasting, 2019 (forthcoming). [pdf](https://arxiv.org/pdf/1605.064
 "Projection-based Dual Averaging for Stochastic Sparse Optimization,"
 in Proceedings of 42nd IEEE ICASSP, pp.2307--2311, New Orleans: USA, March 2017.
 [pdf](http://150.162.46.34:8080/icassp2017/pdfs/0002307.pdf), [slide](assets/slides/icassp_17_asahi.pdf) 
+
+### Thesis
+- Asahi Ushio,
+"Projection-based Regularized Dual Averaging for Stochastic Optimization with Its Applications to Classification and Regression".
+[pdf](assets/papers/master_thesis.pdf), [slide](assets/slides/master_thesis_slide.pdf)
 
 ### Miscellaneous
 - Max F. Frenzel, Bogdan Teleaga, Asahi Ushio,
