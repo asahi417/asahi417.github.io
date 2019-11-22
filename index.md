@@ -66,6 +66,6 @@ IEICE, Signal Processing symposium, Nov, 2015. [pdf](assets/papers/multitask_lea
 
 
 ## Contact
-- Gmail: <asahi1992ushio@gmail.com>
+- <asahi1992ushio@gmail.com>
 - [Linkedin](https://www.linkedin.com/in/asahi-ushio-b06b5488)
 - [GitHub](https://github.com/asahi417)
