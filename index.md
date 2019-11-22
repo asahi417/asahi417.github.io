@@ -51,7 +51,8 @@ in Proceedings of 42nd IEEE ICASSP, pp.2307--2311, New Orleans: USA, March 2017.
 
 ### Thesis
 - Asahi Ushio,
-"Projection-based Regularized Dual Averaging for Stochastic Optimization with Its Applications to Classification and Regression".
+"Projection-based Regularized Dual Averaging for Stochastic Optimization with Its Applications to Classification and Regression,"
+Master thesis, Keio University, 2018.
 [pdf](assets/papers/master_thesis.pdf), [slide](assets/slides/master_thesis_slide.pdf)
 
 ### Miscellaneous
