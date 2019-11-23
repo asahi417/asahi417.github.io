@@ -5,7 +5,7 @@ See my [full CV](assets/cv/cv_asahi.pdf) for more information.
 ## Research
 I've been studying machine learning in general and currently be interested in natural language processing,
 specifically *natural language understanding*, *information retrieval*, *generative models*. 
-Previously, I had been studying *stochastic optimization* and *sparsity-aware adaptive learning*, supervised by 
+Previously, I had been studying *stochastic optimization* and *sparsity-aware adaptive learning* for machine learning, supervised by 
 [Masahiro Yukawa](http://www.ykw.elec.keio.ac.jp/yukawa/) during my master degree at Keio University.
 We propose new framework of stochastic optimizer and show its efficacy on classification/regression tasks
 (see my publications for more in detail).       
