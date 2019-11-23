@@ -65,6 +65,14 @@ arXiv:1902.02113, Feb 2019. [pdf](https://arxiv.org/pdf/1902.02113.pdf)
 "Multi-task Learning with Operator-valued Reproducing Kernels,"
 IEICE, Signal Processing symposium, Nov, 2015. [pdf](assets/papers/multitask_learning.pdf)
 
+## Others
+### Relevant Skills
+- **coding**: Python (Tensorflow, Pytorch, Django, Flask, etc), PostgresSQL, Linux, Mac OS, AWS, GCP
+- **others**: English, Japanese, Chinese (elementary)   
+
+### Interests
+Love to listen to modern Jazz music, see paintings (Ingres is my favorite painter), play street dance, 
+and drink Scotch whisky. 
 
 ## Contact
 - Personal: <asahi1992ushio@gmail.com>
