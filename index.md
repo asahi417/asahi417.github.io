@@ -1,13 +1,14 @@
 # Asahi Ushio
-Tokyo-based AI Researcher, currently working at [Cogent Labs](https://www.cogent.co.jp/en/) as full-time researcher
-focusing on NLP (natural language processing). See my [full CV](assets/cv/cv_asahi.pdf) for more information. 
+Tokyo-based AI Researcher at [Cogent Labs](https://www.cogent.co.jp/en/), focusing on machine learning and natural language processing.
+See my [full CV](assets/cv/cv_asahi.pdf) for more information. 
 
 ## Research
-I work on natural language processing in general, specifically focus on
-*natural language understanding*, *information retrieval*, *generative models*. 
-Previously, I had been studying stochastic optimization and sparsity-aware adaptive learning, supervised by 
-[Masahiro Yukawa](http://www.ykw.elec.keio.ac.jp/yukawa/) as my master research and received Master of Engineering from Keio University
-on 2018.  
+I've been studying machine learning in general and currently be interested in natural language processing,
+specifically *natural language understanding*, *information retrieval*, *generative models*. 
+Previously, I had been studying *stochastic optimization* and *sparsity-aware adaptive learning*, supervised by 
+[Masahiro Yukawa](http://www.ykw.elec.keio.ac.jp/yukawa/) during my master degree at Keio University.
+We propose new framework of stochastic optimizer and show its efficacy on classification/regression tasks
+(see my publications for more in detail).       
 
 ## Bio
 <dl>
@@ -66,6 +67,7 @@ IEICE, Signal Processing symposium, Nov, 2015. [pdf](assets/papers/multitask_lea
 
 
 ## Contact
-- <asahi1992ushio@gmail.com>
+- Personal: <asahi1992ushio@gmail.com>
+- Company: <aushio@cogent.co.jp>
 - [Linkedin](https://www.linkedin.com/in/asahi-ushio-b06b5488)
 - [GitHub](https://github.com/asahi417)
