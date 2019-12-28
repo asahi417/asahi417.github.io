@@ -38,7 +38,7 @@ Area of study: Multi-task learning, Bayesian forecasting
 ### Refereed Journal Articles
 - Asahi Ushio and Masahiro Yukawa,
 "Projection-based Regularized Dual Averaging for Stochastic Optimization,"
-IEEE Trans. Signal Processing, vol.67, no.10, pp.2720--2733, May 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/8680689)
+IEEE Trans. Signal Processing, vol.67, no.10, pp.2720--2733, May 2019. [pdf](assets/papers/tsp_pda_with_bio.pdf)
 
 - Ken McAlinn, Asahi Ushio, and Teruo Nakatsuma,
 "Volatility Forecasts Using Nonlinear Leverage Effects,"
