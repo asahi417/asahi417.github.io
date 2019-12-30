@@ -71,7 +71,7 @@ IEICE, Signal Processing symposium, Nov, 2015. [pdf](assets/papers/multitask_lea
 
 ## Others
 ### Relevant Skills
-- **coding**: Python (Tensorflow, Pytorch, Django, Flask, etc), PostgresSQL, Linux, Mac OS, AWS, GCP
+- **coding**: Python (Tensorflow, Pytorch, Django, Flask, etc), PostgresSQL, Linux, Mac OS, AWS, GCP, Latex
 - **others**: English, Japanese, Chinese (elementary)   
 
 ### Interests
