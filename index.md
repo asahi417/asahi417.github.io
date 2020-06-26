@@ -75,8 +75,8 @@ IEICE, Signal Processing symposium, Nov, 2015. [pdf](assets/papers/multitask_lea
 - **others**: English, Japanese, Chinese (elementary)   
 
 ### Interests
-Love to listen to modern Jazz music, see paintings (Ingres is my favorite painter), play street dance, 
-and drink Scotch whisky. 
+Love modern Jazz/HipHop/Neo Soul music, paintings, street dance, 
+and Scotch whisky. 
 
 ## Contact
 - Personal: <asahi1992ushio@gmail.com>
