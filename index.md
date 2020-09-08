@@ -8,11 +8,19 @@ specifically *natural language understanding*, *information retrieval*, *generat
 Previously, I had been studying *stochastic optimization* and *sparsity-aware adaptive learning* for machine learning, supervised by 
 [Masahiro Yukawa](http://www.ykw.elec.keio.ac.jp/yukawa/) during my master degree at Keio University.
 We have proposed a new framework of stochastic optimizer and show its efficacy on classification/regression tasks
-(see my [journal paper](assets/papers/tsp_pda_with_bio.pdf) for more in detail).       
+(see my [journal paper](assets/papers/tsp_pda_with_bio.pdf) for more in detail).        
 
 ## Bio
 <dl>
-<dt>04/2018 -</dt>
+
+<dt>10/2020 - </dt>
+<dd> PhD   <br>
+Computer Science & Information <br>
+Cardiff University, UK <br>
+Adviser: Jose Camacho Collados <br>
+Area of study: NLP, Language Understanding  
+</dd>
+<dt>04/2018 - 10/2020</dt>
 <dd>
 AI Researcher<br>
 Cogent Labs, Tokyo, Japan
@@ -21,14 +29,14 @@ Cogent Labs, Tokyo, Japan
 <dd> Master Student  <br>
 Electrical Engineerings Department <br>
 Keio University, Japan <br>
-Advisor: Masahiro Yukawa <br>
+Adviser: Masahiro Yukawa <br>
 Area of study: Stochastic optimization, Online learning, Sparsity-aware filtering
 </dd>
 <dt>04/2011 - 03/2016</dt>
 <dd> Undergrad Student  <br>
 Electrical Engineerings Department <br>
 Keio University, Japan <br>
-Advisors: Masahiro Yukawa, Teruo Nakatsuma <br>
+Advisers: Masahiro Yukawa, Teruo Nakatsuma <br>
 Area of study: Multi-task learning, Bayesian forecasting
 </dd>
 
@@ -80,6 +88,5 @@ and Scotch whisky.
 
 ## Contact
 - Personal: <asahi1992ushio@gmail.com>
-- Company: <aushio@cogent.co.jp>
 - [Linkedin](https://www.linkedin.com/in/asahi-ushio-b06b5488)
 - [GitHub](https://github.com/asahi417)
