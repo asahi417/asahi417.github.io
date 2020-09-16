@@ -14,7 +14,7 @@ We have proposed a new framework of stochastic optimizer and show its efficacy o
 <dl>
 
 <dt>10/2020 - </dt>
-<dd> PhD   <br>
+<dd> PhD student <br>
 Computer Science & Information <br>
 Cardiff University, UK <br>
 Adviser: Jose Camacho Collados <br>
@@ -90,3 +90,5 @@ and Scotch whisky.
 - Personal: <asahi1992ushio@gmail.com>
 - [Linkedin](https://www.linkedin.com/in/asahi-ushio-b06b5488)
 - [GitHub](https://github.com/asahi417)
+- [Instagram](https://www.instagram.com/asahiushio/)
+- [Twitter](https://twitter.com/asahiushio)
