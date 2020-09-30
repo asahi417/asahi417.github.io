@@ -1,11 +1,16 @@
 # Asahi Ushio
-Tokyo-based AI Researcher at [Cogent Labs](https://www.cogent.co.jp/en/), focusing on machine learning and natural language processing.
+PhD student at Cardiff University in natural language processing (NLP), focusing on language understanding.
 See my [full CV](assets/cv/cv_asahi.pdf) for more information. 
 
 ## Research
-I've been studying machine learning in general and currently be interested in natural language processing,
-specifically *natural language understanding*, *information retrieval*, *generative models*. 
-Previously, I had been studying *stochastic optimization* and *sparsity-aware adaptive learning* for machine learning, supervised by 
+I've been studying machine learning and especially be interested in natural language processing,
+specifically *natural language understanding*, *information retrieval*, *generative models*.
+
+Previously, I was a machine learning scientist at [Cogent Labs](https://www.cogent.co.jp/en/),
+leading NLP-based solutions for various domains such as financial, education, manufacturing, which leverages
+recent progress in natural language processing, deep learning, and other data science theories.
+ 
+As of my master degree, I studied *stochastic optimization* and *sparsity-aware adaptive learning* for machine learning, supervised by 
 [Masahiro Yukawa](http://www.ykw.elec.keio.ac.jp/yukawa/) during my master degree at Keio University.
 We have proposed a new framework of stochastic optimizer and show its efficacy on classification/regression tasks
 (see my [journal paper](assets/papers/tsp_pda_with_bio.pdf) for more in detail).        
@@ -83,11 +88,10 @@ IEICE, Signal Processing symposium, Nov, 2015. [pdf](assets/papers/multitask_lea
 - **others**: English, Japanese, Chinese (elementary)   
 
 ### Interests
-Love modern Jazz/HipHop/Neo Soul music, paintings, street dance, 
-and Scotch whisky. 
+Love Jazz/HipHop/Neo Soul music, modern art, street dance, and Scotch whisky. 
 
 ## Contact
-- Personal: <asahi1992ushio@gmail.com>
+- E-mail: <asahi1992ushio@gmail.com>
 - [Linkedin](https://www.linkedin.com/in/asahi-ushio-b06b5488)
 - [GitHub](https://github.com/asahi417)
 - [Instagram](https://www.instagram.com/asahiushio/)
