@@ -3,8 +3,7 @@ PhD student at Cardiff University in natural language processing (NLP), focusing
 See my [full CV](assets/cv/cv_asahi.pdf) for more information. 
 
 ## Research
-I've been studying machine learning and especially be interested in natural language processing,
-specifically *natural language understanding*, *information retrieval*, *generative models*.
+I've been studying machine learning, especially *natural language understanding*, *information retrieval*, *generative models*.
 
 Previously, I was a machine learning scientist at [Cogent Labs](https://www.cogent.co.jp/en/),
 leading NLP-based solutions for various domains such as financial, education, manufacturing, which leverages
@@ -22,7 +21,7 @@ We have proposed a new framework of stochastic optimizer and show its efficacy o
 <dd> PhD student <br>
 Computer Science & Information <br>
 Cardiff University, UK <br>
-Adviser: Jose Camacho Collados <br>
+Adviser: Jose Camacho Collados, Steven Schockaert <br>
 Area of study: NLP, Language Understanding  
 </dd>
 <dt>04/2018 - 10/2020</dt>
