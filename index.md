@@ -1,5 +1,5 @@
 # Asahi Ushio
-PhD student at Cardiff University in natural language processing (NLP), focusing on language understanding.
+PhD student at Cardiff University in natural language processing (NLP), focusing on language understanding. 
 See my [full CV](assets/cv/cv_asahi.pdf) for more information. 
 
 ## Research
@@ -21,7 +21,7 @@ We have proposed a new framework of stochastic optimizer and show its efficacy o
 <dd> PhD student <br>
 Computer Science & Information <br>
 Cardiff University, UK <br>
-Adviser: Jose Camacho Collados, Steven Schockaert <br>
+Adviser: Jose Camacho-Collados, Steven Schockaert <br>
 Area of study: NLP, Language Understanding  
 </dd>
 <dt>04/2018 - 10/2020</dt>
@@ -47,20 +47,27 @@ Area of study: Multi-task learning, Bayesian forecasting
 </dl>
 
 ## Publications
-### Refereed Journal Articles
-- Asahi Ushio and Masahiro Yukawa,
-"Projection-based Regularized Dual Averaging for Stochastic Optimization,"
-IEEE Trans. Signal Processing, vol.67, no.10, pp.2720--2733, May 2019. [paper](assets/papers/tsp_pda_with_bio.pdf)
-
-- Ken McAlinn, Asahi Ushio, and Teruo Nakatsuma,
-"Volatility Forecasts Using Nonlinear Leverage Effects,"
-Journal of Forecasting, 2019 (forthcoming). [paper](https://arxiv.org/pdf/1605.06482.pdf)
-
 ### Refereed Conference Article
-- Asahi Ushio, Masahiro Yukawa,
-"Projection-based Dual Averaging for Stochastic Sparse Optimization,"
-in Proceedings of 42nd IEEE ICASSP, pp.2307--2311, New Orleans: USA, March 2017.
+- Asahi Ushio, Jose Camacho-Collados
+"T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition"
+Proceedings of EACL 2021
+[paper](https://www.aclweb.org/anthology/2021.eacl-demos.7/), [poster](https://drive.google.com/file/d/1mx5KOYXcdO_z_cCqnN7PdIf7UI8Lm5ps/view?usp=sharing), [slide](https://drive.google.com/file/d/1GvClncOvqARYycwwgsNsXFwBdCCwU7KK/view?usp=sharing)
+
+- Asahi Ushio, Masahiro Yukawa
+"Projection-based Dual Averaging for Stochastic Sparse Optimization"
+Proceedings of ICASSP 2017
 [paper](http://150.162.46.34:8080/icassp2017/pdfs/0002307.pdf), [slide](assets/slides/icassp_17_asahi.pdf) 
+
+### Refereed Journal Articles
+- Asahi Ushio and Masahiro Yukawa
+"Projection-based Regularized Dual Averaging for Stochastic Optimization"
+IEEE Trans. Signal Processing 2019
+[paper](assets/papers/tsp_pda_with_bio.pdf)
+
+- Ken McAlinn, Asahi Ushio, and Teruo Nakatsuma
+"Volatility Forecasts Using Nonlinear Leverage Effects"
+Journal of Forecasting, 2019
+[paper](https://arxiv.org/pdf/1605.06482.pdf)
 
 ### Thesis
 - Asahi Ushio,
