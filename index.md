@@ -14,36 +14,43 @@ As of my master degree, I studied *stochastic optimization* and *sparsity-aware 
 We have proposed a new framework of stochastic optimizer and show its efficacy on classification/regression tasks
 (see my [journal paper](assets/papers/tsp_pda_with_bio.pdf) for more in detail).        
 
-## Bio
+## Education
 <dl>
 
-<dt>10/2020 - </dt>
-<dd> PhD student <br>
+<dt>10/2020 - 09/2023: PhD student</dt>
+<dd>
 Computer Science & Information <br>
 Cardiff University, UK <br>
 Adviser: Jose Camacho-Collados, Steven Schockaert <br>
 Area of study: NLP, Language Understanding  
 </dd>
-<dt>04/2018 - 10/2020</dt>
+<dt>04/2016 - 03/2018: Master Student</dt>
 <dd>
-AI Researcher<br>
-Cogent Labs, Tokyo, Japan
-</dd>
-<dt>04/2016 - 03/2018</dt>
-<dd> Master Student  <br>
 Electrical Engineerings Department <br>
 Keio University, Japan <br>
 Adviser: Masahiro Yukawa <br>
 Area of study: Stochastic optimization, Online learning, Sparsity-aware filtering
 </dd>
-<dt>04/2011 - 03/2016</dt>
-<dd> Undergrad Student  <br>
+<dt>04/2011 - 03/2016: Undergrad Student</dt>
+<dd>
 Electrical Engineerings Department <br>
 Keio University, Japan <br>
 Advisers: Masahiro Yukawa, Teruo Nakatsuma <br>
 Area of study: Multi-task learning, Bayesian forecasting
 </dd>
 
+</dl>
+
+## Work Experience
+<dl>
+<dt>06/2021 - 09/2021: Applied Research Scientist (internship) </dt>
+<dd>
+Amazon, Tokyo, Japan
+</dd>
+<dt>04/2018 - 10/2020: AI Researcher (full-time) </dt>
+<dd>
+Cogent Labs, Tokyo, Japan
+</dd>
 </dl>
 
 ## Publications
