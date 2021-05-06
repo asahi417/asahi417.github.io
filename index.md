@@ -43,6 +43,10 @@ Area of study: Multi-task learning, Bayesian forecasting
 
 ## Work Experience
 <dl>
+<dt>09/2021 - 12/2021: Research Scientist (internship) </dt>
+<dd>
+SNAP, California, United States (remote)
+</dd>
 <dt>06/2021 - 09/2021: Applied Research Scientist (internship) </dt>
 <dd>
 Amazon, Tokyo, Japan
@@ -55,9 +59,13 @@ Cogent Labs, Tokyo, Japan
 
 ## Publications
 ### Refereed Conference Article
+- Asahi Ushio, Luis Espinosa-Anke, Steven Schockaert, and Jose Camacho-Collados
+"BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies?"
+Proceedings of ACL-IJCNLP 2021 Main Conference
+
 - Asahi Ushio, Jose Camacho-Collados
 "T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition"
-Proceedings of EACL 2021
+Proceedings of EACL 2021 System Demonstration 
 [paper](https://www.aclweb.org/anthology/2021.eacl-demos.7/), [poster](https://drive.google.com/file/d/1mx5KOYXcdO_z_cCqnN7PdIf7UI8Lm5ps/view?usp=sharing), [slide](https://drive.google.com/file/d/1GvClncOvqARYycwwgsNsXFwBdCCwU7KK/view?usp=sharing)
 
 - Asahi Ushio, Masahiro Yukawa
