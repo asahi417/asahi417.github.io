@@ -63,7 +63,7 @@ Projection-based Regularized Dual Averaging for Stochastic Optimization <br>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-Ken McAlinn, <b>Asahi Ushio</b>, and Teruo Nakatsuma
+Ken McAlinn, <b>Asahi Ushio</b>, and Teruo Nakatsuma <br>
 Volatility Forecasts Using Nonlinear Leverage Effects <br>
  <em>Journal of Forecasting, 2019</em>
 [<a href="https://arxiv.org/pdf/1605.06482.pdf">pdf</a>]
