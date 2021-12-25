@@ -84,7 +84,7 @@ Projection-based Regularized Dual Averaging for Stochastic Optimization with Its
 # 2017
 
 <p style="margin-left: 40px; text-indent: -40px;">
-<b>Asahi Ushio</b><br> and Masahiro Yukawa
+<b>Asahi Ushio</b> and Masahiro Yukawa <br>
 Projection-based Regularized Dual Averaging for Stochastic Optimization <br>
  <em>Proceedings of ICASSP 2017</em>
 [<a href="https://ieeexplore.ieee.org/abstract/document/7952568">pdf</a>]
