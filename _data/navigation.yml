@@ -3,18 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /files/cv_asahi_ushio.pdf
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/cv_asahi_ushio.pdf
 
