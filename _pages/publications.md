@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
@@ -77,7 +76,7 @@ Volatility Forecasts Using Nonlinear Leverage Effects <br>
 <b>Asahi Ushio</b><br>
 Projection-based Regularized Dual Averaging for Stochastic Optimization with Its Applications to Classification and Regression <br>
  <em>Master thesis, Keio University, 2018</em>
-[<a href="files/old_papers/2017_master_thesis.pdf">pdf</a>]
+[<a href="2017_master_thesis.pdf">pdf</a>]
 [<a href="https://github.com/asahi417/StochasticOptimizers">code</a>]
 [<a href="https://www.slideshare.net/asahiushio1/201712-keio-university-projectionbased-regularized-dual-averaging-for-stochastic-optimization-with-its-applications-to-classification-and-regression">slide</a>]
 </p>
