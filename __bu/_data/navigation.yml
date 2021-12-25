@@ -1,0 +1,21 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /files/cv_asahi_ushio.pdf
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Media"
+    url: /media/
+
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+
