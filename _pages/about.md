@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABOUT ME"
+title: "ABOUT ME (under construction)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,11 @@ redirect_from:
 
 I am a Ph.D student in the [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science) at Cardiff University,
 co-advised by [Jose-camacho Collados](http://josecamachocollados.com/) and [Steven Schockaert](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven).
+I study natural language processing (NLP), especially language model probing and application of language model in knowledge-intensive tasks.
 Before joining Cardiff University, I had been a full-time researcher at [Cogent Labs](https://www.cogent.co.jp/en/) from 2018 to 2020. 
 In 2021, I did research internships at Amazon supervised by [Danushka Bollegala](https://danushka.net/),
 and Snapchat co-supervised by [Francesco Barbieri](https://research.snap.com/team/francesco-barbieri/) and 
 [Leonardo Neves](https://research.snap.com/team/leonardo-neves/).
-
-## Research
-I study language models, especially the **relational knowledge** of the language models. 
 
 Representative Papers:
 
@@ -34,3 +32,7 @@ BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify A
 [<a href="https://github.com/asahi417/analogy-language-model">code</a>]
 [<a href="https://www.slideshare.net/asahiushio1/202105-acl-bert-is-to-nlp-what-alexnet-is-to-cv-can-pretrained-language-models-identify-analogies">slide</a>]
 
+Aside from NLP research, I have following research/non-research projects now. 
+- WikiArt Face Image
+- FirstCut
+- AutoQG
