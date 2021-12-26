@@ -1,6 +1,6 @@
 ---
 title: "WikiArt Face Image"
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/projects_wikiart/wikiart_face.0.png' width="1000" height="1000">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/files/projects_wikiart/wikiart_face.0.png' width='1000' height='1000'>"
 collection: project
 ---
 
