@@ -18,7 +18,7 @@ This is the core motivation of the ***WikiART Face Image*** dataset.
 
 
 <p>
-<img src='/files/projects_wikiart/celeba.0.png' width='500' height='500'>
+<img src='/files/projects_wikiart/celeba.0.png' width='500' height='500'><br>
 <em>THIS IS IMAGE</em>
 </p>
 
