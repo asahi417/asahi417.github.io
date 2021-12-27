@@ -17,9 +17,9 @@ so the community is keen to learn new approaches for better image modeling.
 As an art fun rather than a machine learning researcher, I have a question  
 *can we model the art work with the generative models?*, and if so, I believe those models should give us 
 a different perspective of the art world. 
-This is the core motivation of the ***WikiART Face Image*** dataset.  
+This is our core motivation of the ***WikiART Face Image*** dataset.  
 
-***WikiART Face Image*** is a dataset of face images from portrait via [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia.
+***WikiART Face Image*** is a dataset of face images from portraits via [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia.
 Figure 1 shows sample images from the dataset. 
 
 
