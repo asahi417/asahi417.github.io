@@ -22,9 +22,11 @@ In this project, I introduce two art image datasets [WikiART Face & WikiART Gene
 All the original artwork images are taken from [WikiART](https://www.wikiart.org/), an online visual art encyclopedia, with
 [wikiart-crawler](https://github.com/asahi417/wikiart-image-dataset#wikiart-crawler), a python-library also developed within this project.
 
+### WikiART Face
+
 <p align="center">
 <img src='/files/projects_wikiart/face_image_pipeline.png' width='750' height='750'><br>
-<em>Figure 2: Pipeline Process.</em>
+<em>Figure 2: Pipeline to produce single WikiART Face image.</em>
 </p>
 
 [***WikiART Face***](https://github.com/asahi417/wikiart-image-dataset#wikiart-face) 
@@ -35,22 +37,22 @@ various art movements.
 Following figures present samples from some art movements.
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='400'><br>
+<img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='500'><br>
 <em>Figure 3: Samples from 'Ecele de Paris'.</em>
 </p>
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='400'><br>
+<img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='500'><br>
 <em>Figure 4: Samples from 'Impressionism'.</em>
 </p>
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='400'><br>
+<img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='500'><br>
 <em>Figure 5: Samples from 'Pre-Raphaelite Brotherhood'.</em>
 </p>
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_face_rococo.png' width='400'><br>
+<img src='/files/projects_wikiart/wikiart_face_rococo.png' width='500'><br>
 <em>Figure 6: Samples from 'Rococo'.</em>
 </p>
 
@@ -140,6 +142,13 @@ Table 1 shows the data size breakdown per each art movement.
   </tr>
 </tbody>
 </table>
+
+### WikiART General
+
+<p align="center">
+<img src='/files/projects_wikiart/wikiart_general.png' width='500'><br>
+<em>Figure 7: Samples from WikiART General.</em>
+</p>
 
 [***WikiART General***](https://github.com/asahi417/wikiart-image-dataset#wikiart-general) is a dataset of general artwork images taken from WikiART.
 The images are normalized to be 256 x 256 by center crop.
