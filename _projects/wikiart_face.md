@@ -5,7 +5,7 @@ collection: project
 ---
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_face_image.1.png' width='500' height='500'><br>
+<img src='/files/projects_wikiart/wikiart_face.1.png' width='500' height='500'><br>
 <em>Figure 1. Samples from WikiART Face Image.</em>
 </p>
 
