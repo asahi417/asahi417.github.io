@@ -147,7 +147,7 @@ Table 1 shows the data size breakdown per each art movement.
 ## WikiART General
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_general.png' width='800'><br>
+<img src='/files/projects_wikiart/wikiart_general.png' width='1000'><br>
 <em>Figure 7: Samples from WikiART General.</em>
 </p>
 
