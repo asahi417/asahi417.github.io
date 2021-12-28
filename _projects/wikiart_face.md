@@ -21,6 +21,7 @@ This is my core motivation of this project to have a general art image dataset t
 In this project, I introduce two art image datasets [WikiART Face & WikiART General](https://github.com/asahi417/wikiart-image-dataset). 
 All the original artwork images are taken from [WikiART](https://www.wikiart.org/), an online visual art encyclopedia, with
 [wikiart-crawler](https://github.com/asahi417/wikiart-image-dataset#wikiart-crawler), a python-library also developed within this project.
+For further information including the link to each dataset and basic usage, see the official project's [github repository](https://github.com/asahi417/wikiart-image-dataset).
 
 ### WikiART Face
 
@@ -151,8 +152,9 @@ Table 1 shows the data size breakdown per each art movement.
 </p>
 
 [***WikiART General***](https://github.com/asahi417/wikiart-image-dataset#wikiart-general) is a dataset of general artwork images taken from WikiART.
-The images are normalized to be 256 x 256 by center crop.
-Figure 3 shows sample images for portrait, landscape, and the other style. Below table shows the image size per each art movement and the painting style.
-For further information including links to download the datasets, please refer our [github repository](https://github.com/asahi417/wikiart-image-dataset).
+Unlike the WikiART Face, this dataset contains various type of art from portrait, landscape to abstract paintings 
+(see Figure 7 for some samples).
+Note that even the portraits are not as same as in the WikiART Face, since they are raw image without face-centric pre-processing (the pipeline shown in Figure 2). 
+
 
 
