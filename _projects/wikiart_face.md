@@ -141,7 +141,9 @@ Table 1 shows the data size breakdown per each art movement.
 </tbody>
 </table>
 
-***WikiART General*** is a dataset of general artwork images taken from WikiART.
+[***WikiART General***](https://github.com/asahi417/wikiart-image-dataset#wikiart-general) is a dataset of general artwork images taken from WikiART.
+The images are normalized to be 256 x 256 by center crop.
+Figure 3 shows sample images for portrait, landscape, and the other style. Below table shows the image size per each art movement and the painting style.
 For further information including links to download the datasets, please refer our [github repository](https://github.com/asahi417/wikiart-image-dataset).
 
 
