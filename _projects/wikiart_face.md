@@ -1,6 +1,6 @@
 ---
-title: "WikiART Face: Face Image Dataset from Art."
-excerpt: "6K Face Images from Artwork via WikiART. <br/> <img src='/files/projects_wikiart/wikiart_face.header.png' width='500' height='500'>"
+title: "WikiART Face: Face Image Dataset from Portraits"
+excerpt: "6K Face images from portraits via WikiART. <br/> <img src='/files/projects_wikiart/wikiart_face.header.png' width='500' height='500'>"
 collection: project
 ---
 
