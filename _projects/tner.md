@@ -1,6 +1,6 @@
 ---
-title: "T-NER"
-excerpt: "An All-Round Python Library for Transformer-based Named Entity Recognition <br/> <img src='/files/projects_tner/api.gif' width='750' height='750'>"
+title: "T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition"
+excerpt: "<img src='/files/projects_tner/api.gif' width='750' height='750'>"
 collection: project
 ---
 
