@@ -24,4 +24,4 @@ Before joining Cardiff University, I had been a full-time research engineer at [
 Aside from NLP, I spend some time on the research of **computational art**
 ([WikiART Face](https://asahi417.github.io/projects/wikiart_face/)).
 Also, I love prototyping my ideas as open-source software.
-Please have a look my project page or [github](https://github.com/asahi417) to check my fun works!
+Please have a look my [project page](https://asahiushio.com/projects) or [github](https://github.com/asahi417) to check my fun works!
