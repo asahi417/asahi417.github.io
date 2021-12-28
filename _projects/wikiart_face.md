@@ -33,9 +33,7 @@ WikiART Face is a collection of face from paintings.
 Inspired by the largest human-face image set [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), 
 we process all the portraits from WikiART with the pipeline described in Figure 2, that results in 6,095 images across
 various art movements.
-Table 1 shows the data size breakdown per each art movement and a few samples from some art movement in Figre.
-
-
+Following figures present samples from some art movements.
 
 <p align="center">
 <img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='500' height='500'><br>
@@ -48,6 +46,7 @@ Table 1 shows the data size breakdown per each art movement and a few samples fr
 <em>Figure 6: Samples from WikiART Face Image (from *Rococo*).</em>
 </p>
 
+Table 1 shows the data size breakdown per each art movement.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -134,7 +133,8 @@ Table 1 shows the data size breakdown per each art movement and a few samples fr
 </tbody>
 </table>
 
-
+For further information including links to download the datasets, please refer our [github repository](https://github.com/asahi417/wikiart-image-dataset). 
+We also have o
 
 
 
