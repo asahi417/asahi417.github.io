@@ -1,11 +1,11 @@
 ---
-title: "WikiArt Face Image"
-excerpt: "Face-image Dataset from Portraits via WikiART. <br/><img src='/files/projects_wikiart/wikiart_face.0.png' width='500' height='500'>"
+title: "WikiART Face: Face Image Dataset from Art Works."
+excerpt: "6K Face Images from Art Work via WikiART. <br/><p align="center"><img src='/files/projects_wikiart/wikiart_face.1.png' width='500' height='500'></p>"
 collection: project
 ---
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_face.0.png' width='500' height='500'><br>
+<img src='/files/projects_wikiart/wikiart_face_image.0.png' width='500' height='500'><br>
 <em>Figure 1. Samples from WikiART Face Image.</em>
 </p>
 
@@ -17,10 +17,15 @@ so the community is keen to learn new approaches for better image modeling.
 As an art fun rather than a machine learning researcher, I have a question  
 *can we model the art work with the generative models?*, and if so, I believe those models should give us 
 a different perspective of the art world. 
-This is our core motivation of the ***WikiART Face Image*** dataset.  
+This is our core motivation of this project to have a general art image dataset to facilitate research in computation art.
+In this project, we create two datasets ***WikiART Face*** and ***WikiART General***. 
+To create our datasets, the original images are taken from [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia with
+[wikiart-crawler](https://github.com/asahi417/wikiart-crawler).
 
+### WikiART Face Image
 ***WikiART Face Image*** is a dataset of face images from portraits via [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia.
-Figure 1 shows sample images from the dataset. 
+Figure 1 shows sample images from the dataset.
+Following [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset, we  
 
 
 <p align="center">
@@ -41,8 +46,7 @@ Figure 1 shows sample images from the dataset.
 <em>Figure 1. Samples from CelebA Dataset.</em>
 </p>
 
-### BU
-[CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+## Wiki
 
 
 
@@ -51,5 +55,6 @@ Figure 1 shows sample images from the dataset.
 
 
 
-https://github.com/asahi417/wikiart-crawler
+
+
 
