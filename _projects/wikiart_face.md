@@ -37,13 +37,16 @@ Following figures present samples from some art movements.
 
 <p align="center">
 <img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='500' height='500'><br>
-<em>Figure 3: Samples from WikiART Face Image (from *Ecele de Paris*).</em>
+<em>Figure 3: Samples from WikiART Face Image (from Ecele de Paris).</em>
+<br>
 <img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='500' height='500'><br>
-<em>Figure 4: Samples from WikiART Face Image (from *Impressionism*).</em>
+<em>Figure 4: Samples from WikiART Face Image (from Impressionism).</em>
+<br>
 <img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='500' height='500'><br>
-<em>Figure 5: Samples from WikiART Face Image (from *Pre-Raphaelite Brotherhood*).</em>
+<em>Figure 5: Samples from WikiART Face Image (from Pre-Raphaelite Brotherhood*).</em>
+<br>
 <img src='/files/projects_wikiart/wikiart_face_rococo.png' width='500' height='500'><br>
-<em>Figure 6: Samples from WikiART Face Image (from *Rococo*).</em>
+<em>Figure 6: Samples from WikiART Face Image (from Rococo).</em>
 </p>
 
 Table 1 shows the data size breakdown per each art movement.
@@ -133,14 +136,7 @@ Table 1 shows the data size breakdown per each art movement.
 </tbody>
 </table>
 
-For further information including links to download the datasets, please refer our [github repository](https://github.com/asahi417/wikiart-image-dataset). 
-We also have o
-
-
-
-
-
-
-
+***WikiART General*** is a dataset of general artwork images taken from WikiART.
+For further information including links to download the datasets, please refer our [github repository](https://github.com/asahi417/wikiart-image-dataset).
 
 
