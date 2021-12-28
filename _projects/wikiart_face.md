@@ -1,6 +1,6 @@
 ---
 title: "WikiART Face: Face Image Dataset from Art."
-excerpt: "6K Face Images from Artwork via WikiART. <br/><p align='center'><img src='/files/projects_wikiart/wikiart_face.header.png' width='500' height='500'></p>"
+excerpt: "6K Face Images from Artwork via WikiART. <br/> <img src='/files/projects_wikiart/wikiart_face.header.png' width='500' height='500'>"
 collection: project
 ---
 
@@ -18,10 +18,18 @@ As an art fun rather than a machine learning researcher, I have a question
 "Can we model artworks with the generative models?", and if so, I believe those models should give us 
 different perspectives of artworks. 
 This is our core motivation of this project to have a general art image dataset to facilitate research in computation art.
-In this project, we create two datasets ***WikiART Face*** and ***WikiART General***. 
+In this project, we create two art image datasets ***WikiART Face*** and ***WikiART General***. 
 To create our datasets, the original images are taken from [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia with
-[wikiart-crawler](https://github.com/asahi417/wikiart-crawler).
+[wikiart-crawler](https://github.com/asahi417/wikiart-image-dataset#wikiart-crawler).
 
+### WikiART Face
+***WikiART Face Image*** is a dataset of face images from portraits via [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia.
+Figure 1 shows sample images from the dataset.
+Following [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset, we  
+
+WikiART Face is a collection of face from paintings. Inspired by the largest human-face image set CelebA, 
+we process all the portraits from WikiART with the pipeline described in Figure 1.
+As the final step, we blur the corner of each image so that model can pay more attention on the face rather than the background. We release both version of the dataset w/wo the final blur step. Below table shows the image size per each art movement.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -107,9 +115,6 @@ To create our datasets, the original images are taken from [WikiART](https://www
 </tbody>
 </table>
 
-***WikiART Face Image*** is a dataset of face images from portraits via [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia.
-Figure 1 shows sample images from the dataset.
-Following [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset, we  
 
 
 <p align="center">
