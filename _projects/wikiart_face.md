@@ -17,35 +17,40 @@ so the community is keen to develop new approaches for better image modeling.
 As an art fun rather than a machine learning researcher, I have a question 
 "Can we model artworks with the generative models?", and if so, I believe those models should give us 
 different perspectives of artworks. 
-This is our core motivation of this project to have a general art image dataset to facilitate research in computation art.
-In this project, we create two art image datasets [WikiART Face & WikiART General](https://github.com/asahi417/wikiart-image-dataset). 
-All the original artwork images are taken from [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia, with
-[wikiart-crawler](https://github.com/asahi417/wikiart-image-dataset#wikiart-crawler).
+This is my core motivation of this project to have a general art image dataset to facilitate research in computational art.
+In this project, I introduce two art image datasets [WikiART Face & WikiART General](https://github.com/asahi417/wikiart-image-dataset). 
+All the original artwork images are taken from [WikiART](https://www.wikiart.org/), an online visual art encyclopedia, with
+[wikiart-crawler](https://github.com/asahi417/wikiart-image-dataset#wikiart-crawler), a python-library also developed within this project.
 
 <p align="center">
 <img src='/files/projects_wikiart/face_image_pipeline.png' width='750' height='750'><br>
 <em>Figure 2: Pipeline Process.</em>
 </p>
 
-***WikiART Face*** is a dataset of face images produced on top of portrait images.
-Figure 1 shows sample images from the dataset.
-WikiART Face is a collection of face from paintings.
-Inspired by the largest human-face image set [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), 
-we process all the portraits from WikiART with the pipeline described in Figure 2, that results in 6,095 images across
+[***WikiART Face***](https://github.com/asahi417/wikiart-image-dataset#wikiart-face) 
+is a dataset of face images produced on top of portrait images (see Figure 1 for sample images).
+Inspired by one of the largest human-face image set [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), 
+all the portraits from WikiART are processed through the pipeline described in Figure 2, that results in 6,095 images across
 various art movements.
 Following figures present samples from some art movements.
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='500' height='500'><br>
+<img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='400'><br>
 <em>Figure 3: Samples from WikiART Face Image (from Ecele de Paris).</em>
-<br>
-<img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='500' height='500'><br>
+</p>
+
+<p align="center">
+<img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='400'><br>
 <em>Figure 4: Samples from WikiART Face Image (from Impressionism).</em>
-<br>
-<img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='500' height='500'><br>
+</p>
+
+<p align="center">
+<img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='400'><br>
 <em>Figure 5: Samples from WikiART Face Image (from Pre-Raphaelite Brotherhood*).</em>
-<br>
-<img src='/files/projects_wikiart/wikiart_face_rococo.png' width='500' height='500'><br>
+</p>
+
+<p align="center">
+<img src='/files/projects_wikiart/wikiart_face_rococo.png' width='400'><br>
 <em>Figure 6: Samples from WikiART Face Image (from Rococo).</em>
 </p>
 
