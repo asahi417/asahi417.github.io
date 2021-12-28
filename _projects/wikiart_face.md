@@ -23,7 +23,7 @@ All the original artwork images are taken from [WikiART](https://www.wikiart.org
 [wikiart-crawler](https://github.com/asahi417/wikiart-image-dataset#wikiart-crawler), a python-library also developed within this project.
 For further information including the link to each dataset and basic usage, see the official project's [github repository](https://github.com/asahi417/wikiart-image-dataset).
 
-### WikiART Face
+## WikiART Face
 
 <p align="center">
 <img src='/files/projects_wikiart/face_image_pipeline.png' width='750' height='750'><br>
@@ -144,10 +144,10 @@ Table 1 shows the data size breakdown per each art movement.
 </tbody>
 </table>
 
-### WikiART General
+## WikiART General
 
 <p align="center">
-<img src='/files/projects_wikiart/wikiart_general.png' width='500'><br>
+<img src='/files/projects_wikiart/wikiart_general.png' width='800'><br>
 <em>Figure 7: Samples from WikiART General.</em>
 </p>
 
