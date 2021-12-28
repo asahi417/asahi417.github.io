@@ -18,12 +18,12 @@ As an art fun rather than a machine learning researcher, I have a question
 "Can we model artworks with the generative models?", and if so, I believe those models should give us 
 different perspectives of artworks. 
 This is our core motivation of this project to have a general art image dataset to facilitate research in computation art.
-In this project, we create two art image datasets [***WikiART Face*** and ***WikiART General***](https://github.com/asahi417/wikiart-image-dataset). 
+In this project, we create two art image datasets [WikiART Face & WikiART General](https://github.com/asahi417/wikiart-image-dataset). 
 All the original artwork images are taken from [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia, with
 [wikiart-crawler](https://github.com/asahi417/wikiart-image-dataset#wikiart-crawler).
 
 <p align="center">
-<img src='/files/projects_wikiart/face_image_pipeline.png' width='600' height='600'><br>
+<img src='/files/projects_wikiart/face_image_pipeline.png' width='750' height='750'><br>
 <em>Figure 2: Pipeline Process.</em>
 </p>
 
@@ -35,11 +35,25 @@ we process all the portraits from WikiART with the pipeline described in Figure 
 various art movements.
 Table 1 shows the data size breakdown per each art movement and a few samples from some art movement in Figre.
 
+
+
+<p align="center">
+<img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='500' height='500'><br>
+<em>Figure 3: Samples from WikiART Face Image (from *Ecele de Paris*).</em>
+<img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='500' height='500'><br>
+<em>Figure 4: Samples from WikiART Face Image (from *Impressionism*).</em>
+<img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='500' height='500'><br>
+<em>Figure 5: Samples from WikiART Face Image (from *Pre-Raphaelite Brotherhood*).</em>
+<img src='/files/projects_wikiart/wikiart_face_rococo.png' width='500' height='500'><br>
+<em>Figure 6: Samples from WikiART Face Image (from *Rococo*).</em>
+</p>
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:10px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:10px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-lqy6{text-align:right;vertical-align:top}
@@ -119,17 +133,6 @@ Table 1 shows the data size breakdown per each art movement and a few samples fr
   </tr>
 </tbody>
 </table>
-
-
-<p align="center">
-<img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='200' height='200'>
-<img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='200' height='200'>
-<img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='200' height='200'>
-<img src='/files/projects_wikiart/wikiart_face_rococo.png' width='200' height='200'>
-<br>
-<em>Figure 3: Samples from WikiART Face Image (`Ecele de Paris`, `Impressionism`, `Pre-Raphaelite`, and `Rococo` from left to right).</em>
-</p>
-
 
 
 
