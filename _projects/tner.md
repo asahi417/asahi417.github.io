@@ -6,7 +6,7 @@ collection: project
 
 <p align="center">
 <img src='/files/projects_tner/api.gif' width='750' height='750'><br>
-<em>Figure 1: T-NER API demo.</em>
+<em>Figure 1: T-NER Web interface.</em>
 </p>
 
 
