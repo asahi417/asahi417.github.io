@@ -1,6 +1,6 @@
 ---
 title: "WikiART Face: Face Image Dataset from Art."
-excerpt: "6K Face Images from Artwork via WikiART. <br/><p align="center"><img src='/files/projects_wikiart/wikiart_face.header.png' width='500' height='500'></p>"
+excerpt: "6K Face Images from Artwork via WikiART. <br/><p align='center'><img src='/files/projects_wikiart/wikiart_face.header.png' width='500' height='500'></p>"
 collection: project
 ---
 
@@ -16,7 +16,7 @@ Nevertheless, there are still vast room to improve the generalization ability an
 so the community is keen to develop new approaches for better image modeling.
 As an art fun rather than a machine learning researcher, I have a question 
 "Can we model artworks with the generative models?", and if so, I believe those models should give us 
-a different perspective of the art world. 
+different perspectives of artworks. 
 This is our core motivation of this project to have a general art image dataset to facilitate research in computation art.
 In this project, we create two datasets ***WikiART Face*** and ***WikiART General***. 
 To create our datasets, the original images are taken from [WikiART](https://www.wikiart.org/), which is an online visual art encyclopedia with
