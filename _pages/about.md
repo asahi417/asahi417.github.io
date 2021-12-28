@@ -17,7 +17,7 @@ and Snapchat co-supervised by [Francesco Barbieri](https://research.snap.com/tea
 [Leonardo Neves](https://research.snap.com/team/leonardo-neves/).
 Before joining Cardiff University, I had been a full-time research engineer at [Cogent Labs](https://www.cogent.co.jp/en/) from 2018 to 2020.
 
-Representative Papers:
+Representative Papers ([full publication](https://asahiushio.com/publications)):
 - <b>Asahi Ushio</b>, Jose Camacho-Collados, and Steven Schockaert <br>
 Distilling Relation Embeddings from Pre-trained Language Models  <br>
  <em>Proceedings of EMNLP 2021 Main Conference</em>
