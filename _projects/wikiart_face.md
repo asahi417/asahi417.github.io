@@ -156,6 +156,6 @@ Unlike the WikiART Face, this dataset contains various type of art from portrait
 (see Figure 7 for some samples).
 Note that even the portraits are not as same as in the WikiART Face, since they are raw image without face-centric pre-processing (the pipeline shown in Figure 2). 
 This dataset contains 25,612 images in total, where 6,126 in portrait, 5,872 in landscape, and 13,614 in others. 
-Visit our [github repository](https://github.com/asahi417/wikiart-image-dataset#wikiart-general) to see a complete statistics.
+Visit the project's [github repository](https://github.com/asahi417/wikiart-image-dataset#wikiart-general) to see a complete statistics.
 
 
