@@ -6,7 +6,7 @@ collection: project
 
 <p align="center">
 <img src='/files/projects_wikiart/wikiart_face.header.png' width='500' height='500'><br>
-<em>Figure 1. Samples from WikiART Face Image.</em>
+<em>Figure 1: Samples from WikiART Face Image.</em>
 </p>
 
 Recent progress in computer vision proves that large generative models can model natural images with a decent quality
@@ -24,7 +24,7 @@ All the original artwork images are taken from [WikiART](https://www.wikiart.org
 
 <p align="center">
 <img src='/files/projects_wikiart/face_image_pipeline.png' width='600' height='600'><br>
-<em>Figure 2. Pipeline Process.</em>
+<em>Figure 2: Pipeline Process.</em>
 </p>
 
 ***WikiART Face*** is a dataset of face images produced on top of portrait images.
@@ -45,7 +45,7 @@ Table 1 shows the data size breakdown per each art movement and a few samples fr
 .tg .tg-lqy6{text-align:right;vertical-align:top}
 </style>
 <table class="tg">
-  <caption>Table 1: Data Statistics</caption>
+  <caption>Table 1: Data Statistics.</caption>
 <thead>
   <tr>
     <th class="tg-baqh">Art Movements</th>
@@ -121,21 +121,15 @@ Table 1 shows the data size breakdown per each art movement and a few samples fr
 </table>
 
 
-
-
 <p align="center">
-<img src='/files/projects_wikiart/celeba.1.png' width='200' height='200'>
-<img src='/files/projects_wikiart/wikiart_face.1.png' width='200' height='200'>
+<img src='/files/projects_wikiart/wikiart_face_ecole-de-paris.png' width='200' height='200'>
+<img src='/files/projects_wikiart/wikiart_face_impressionism.png' width='200' height='200'>
+<img src='/files/projects_wikiart/wikiart_face_pre-raphaelite-brotherhood.png' width='200' height='200'>
+<img src='/files/projects_wikiart/wikiart_face_rococo.png' width='200' height='200'>
 <br>
-<em>Figure 2. Pipeline Process.</em>
+<em>Figure 3: Samples from WikiART Face Image (`Ecele de Paris`, `Impressionism`, `Pre-Raphaelite`, and `Rococo` from left to right).</em>
 </p>
 
-<p align="center">
-<img src='/files/projects_wikiart/celeba.0.png' width='500' height='500'><br>
-<em>Figure 1. Samples from CelebA Dataset.</em>
-</p>
-
-## Wiki
 
 
 
