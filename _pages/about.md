@@ -13,7 +13,7 @@ I study natural language processing (NLP), focusing on **language model probing*
 application of language model in tasks such as 
 **named-entity recognition (NER)** and **question generation (QG)**.
 In 2021, I did research internships at Amazon supervised by [Danushka Bollegala](https://danushka.net/),
-and Snapchat co-supervised by [Francesco Barbieri](https://research.snap.com/team/francesco-barbieri/) and 
+and Snapchat co-supervised by [Francesco Barbieri](https://research.snap.com/team/francesco-barbieri/), [Vítor Silva Sousa](https://research.snap.com/team/vitor-silva-sousa),
 [Leonardo Neves](https://research.snap.com/team/leonardo-neves/).
 Before joining Cardiff University, I had been a full-time research engineer at [Cogent Labs](https://www.cogent.co.jp/en/) from 2018 to 2020.
 
