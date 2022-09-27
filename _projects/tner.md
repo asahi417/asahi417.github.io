@@ -16,9 +16,11 @@ Figure 1 shows T-NER's interface where one can deploy NER models and run the mod
 <b>Asahi Ushio</b> and Jose Camacho-Collados <br>
 T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition <br>
  <em>Proceedings of EACL 2021 System Demonstration</em>
-[<a href="https://www.aclweb.org/anthology/2021.eacl-demos.7.pdf">pdf</a>]
-[<a href="https://github.com/asahi417/tner">code</a>]
-[<a href="https://www.slideshare.net/asahiushio1/202104-eacl-tner-an-allround-python-library-for-transformerbased-named-entity-recognition">slide</a>]
+<a href="https://www.aclweb.org/anthology/2021.eacl-demos.7.pdf">[pdf]</a>
+<a href="https://github.com/asahi417/tner">[code]</a>
+<a href="https://www.slideshare.net/asahiushio1/202104-eacl-tner-an-allround-python-library-for-transformerbased-named-entity-recognition">[slide]</a>
+<a href="https://www.aclweb.org/anthology/2021.eacl-demos.7">[acl anthology]</a>
+<a href="https://huggingface.co/spaces/tner/NER">[demo]</a>
 </p>
 
 Please also have a look the following slide presented in EACL 2021.
