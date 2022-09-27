@@ -80,6 +80,7 @@ T-NER: An All-Round Python Library for Transformer-based Named Entity Recognitio
 <a href="https://github.com/asahi417/tner">[code]</a>
 <a href="https://www.slideshare.net/asahiushio1/202104-eacl-tner-an-allround-python-library-for-transformerbased-named-entity-recognition">[slide]</a>
 <a href="https://www.aclweb.org/anthology/2021.eacl-demos.7">[acl anthology]</a>
+<a href="https://arxiv.org/abs/2209.12616">[arxiv]</a>
 <a href="https://huggingface.co/spaces/tner/NER">[demo]</a>
 </p>
 
