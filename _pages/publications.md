@@ -10,6 +10,15 @@ author_profile: true
 
 
 <p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Fernando Alva-Manchego, Jose Camacho-Collados <br>
+Generative Language Models for Paragraph-Level Question Generation: A Unified Benchmark and Evaluation <br>
+ <em>Proceedings of EMNLP 2022 Main Conference </em>
+<a href="https://github.com/asahi417/lm-question-generation">[code]</a>
+<a href="https://autoqg.net/">[demo (autoqg)]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
 Jose Camacho-Collados, Kiamehr Rezaee, Talayeh Riahi, <b>Asahi Ushio</b>, Daniel Loureiro, Dimosthenis Antypas, Joanne Boisson, Luis Espinosa-Anke, Fangyu Liu, Eugenio Martínez-Cámara, Gonzalo Medina, Thomas Buhrmann, Leonardo Neves, Francesco Barbieri  <br>
 TweetNLP: Cutting-Edge Natural Language Processing for Social Media <br>
  <em>Proceedings of EMNLP 2022 System Demonstration</em>
