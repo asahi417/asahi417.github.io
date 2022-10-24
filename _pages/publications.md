@@ -14,7 +14,9 @@ author_profile: true
 Generative Language Models for Paragraph-Level Question Generation: A Unified Benchmark and Evaluation <br>
  <em>Proceedings of EMNLP 2022 Main Conference </em>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
+<a href="https://github.com/asahi417/lm-question-generation/blob/master/QG_BENCH.md">[dataset]</a>
 <a href="https://autoqg.net/">[demo (autoqg)]</a>
+<a href="https://arxiv.org/abs/2210.03992">[arxiv]</a>
 </p>
 
 
@@ -39,8 +41,9 @@ Named Entity Recognition in Twitter: A Dataset and Analysis on Short-Term Tempor
 Dimosthenis Antypas*, <b>Asahi Ushio*</b>, Jose Camacho-Collados, Leonardo Neves, Vitor Silva, Francesco Barbieri <br>
 Twitter Topic Classification (*equal contribution)<br>
  <em>Proceedings of COLING 2022 Main Conference</em>
-<a href="https://huggingface.co/datasets/cardiffnlp/tweet_topic_multi">[data (multi)]</a>
-<a href="https://huggingface.co/datasets/cardiffnlp/tweet_topic_single">[data (single)]</a>
+<a href="https://aclanthology.org/2022.coling-1.299/">[acl anthology]</a>
+<a href="https://huggingface.co/datasets/cardiffnlp/tweet_topic_multi">[dataset (multi)]</a>
+<a href="https://huggingface.co/datasets/cardiffnlp/tweet_topic_single">[dataset (single)]</a>
 <a href="https://arxiv.org/abs/2209.09824">[arxiv]</a>
 </p>
 
