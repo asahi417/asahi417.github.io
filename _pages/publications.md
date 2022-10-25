@@ -10,7 +10,7 @@ author_profile: true
 
 
 <p style="margin-left: 40px; text-indent: -40px;">
-<b>Asahi Ushio</b>, Fernando Alva-Manchego, Jose Camacho-Collados <br>
+<b>Asahi Ushio</b>, Fernando Alva-Manchego, and Jose Camacho-Collados <br>
 Generative Language Models for Paragraph-Level Question Generation: A Unified Benchmark and Evaluation <br>
  <em>Proceedings of EMNLP 2022 Main Conference </em>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
@@ -21,7 +21,7 @@ Generative Language Models for Paragraph-Level Question Generation: A Unified Be
 
 
 <p style="margin-left: 40px; text-indent: -40px;">
-Jose Camacho-Collados, Kiamehr Rezaee, Talayeh Riahi, <b>Asahi Ushio</b>, Daniel Loureiro, Dimosthenis Antypas, Joanne Boisson, Luis Espinosa-Anke, Fangyu Liu, Eugenio Martínez-Cámara, Gonzalo Medina, Thomas Buhrmann, Leonardo Neves, Francesco Barbieri  <br>
+Jose Camacho-Collados, Kiamehr Rezaee, Talayeh Riahi, <b>Asahi Ushio</b>, Daniel Loureiro, Dimosthenis Antypas, Joanne Boisson, Luis Espinosa-Anke, Fangyu Liu, Eugenio Martínez-Cámara, Gonzalo Medina, Thomas Buhrmann, Leonardo Neves, and Francesco Barbieri  <br>
 TweetNLP: Cutting-Edge Natural Language Processing for Social Media <br>
  <em>Proceedings of EMNLP 2022 System Demonstration</em>
 <a href="https://github.com/cardiffnlp/tweetnlp">[code]</a>
@@ -30,7 +30,19 @@ TweetNLP: Cutting-Edge Natural Language Processing for Social Media <br>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-<b>Asahi Ushio</b>, Leonardo Neves, Vitor Silva, Francesco Barbieri, Jose Camacho-Collados <br>
+<b>Asahi Ushio</b>, and Danushka Bollegala <br>
+Guiding Generative Language Models for Data Augmentation in Few-Shot Text Classification <br>
+ <em>Proceedings of the 2nd Workshop on Multilingual Representation Learning </em>
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
+Aleksandra Edwards, <b>Asahi Ushio</b>, Jose Camacho-Collados, Helene de Ribaupierre, and Alun Preece <br>
+Zero-shot Cross-Lingual Counterfactual Detection via Automatic Extraction and Prediction of Clue Phrases <br>
+ <em>Proceedings of the 3rd Workshop on Data Science with Human in the Loop</em>
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Leonardo Neves, Vitor Silva, Francesco Barbieri, and Jose Camacho-Collados <br>
 Named Entity Recognition in Twitter: A Dataset and Analysis on Short-Term Temporal Shifts <br>
  <em>Proceedings of AACL 2022 Main Conference</em>
 <a href="https://huggingface.co/datasets/tner/tweetner7">[dataset]</a>
@@ -38,7 +50,7 @@ Named Entity Recognition in Twitter: A Dataset and Analysis on Short-Term Tempor
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-Dimosthenis Antypas*, <b>Asahi Ushio*</b>, Jose Camacho-Collados, Leonardo Neves, Vitor Silva, Francesco Barbieri <br>
+Dimosthenis Antypas*, <b>Asahi Ushio*</b>, Jose Camacho-Collados, Leonardo Neves, Vitor Silva, and Francesco Barbieri <br>
 Twitter Topic Classification (*equal contribution)<br>
  <em>Proceedings of COLING 2022 Main Conference</em>
 <a href="https://aclanthology.org/2022.coling-1.299/">[acl anthology]</a>
