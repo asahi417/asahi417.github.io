@@ -16,6 +16,7 @@ Generative Language Models for Paragraph-Level Question Generation: A Unified Be
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
 <a href="https://github.com/asahi417/lm-question-generation/blob/master/QG_BENCH.md">[dataset]</a>
 <a href="https://autoqg.net/">[demo (autoqg)]</a>
+<a href="https://www.slideshare.net/asahiushio1/202212-emnlp-generative-language-models-for-paragraphlevel-question-generation">[slide]</a>
 <a href="https://arxiv.org/abs/2210.03992">[arxiv]</a>
 </p>
 
@@ -47,6 +48,8 @@ Named Entity Recognition in Twitter: A Dataset and Analysis on Short-Term Tempor
  <em>Proceedings of AACL 2022 Main Conference</em>
 <a href="https://huggingface.co/datasets/tner/tweetner7">[dataset]</a>
 <a href="https://github.com/asahi417/tner/tree/master/examples/tweetner7_paper">[code]</a>
+<a href="https://www.slideshare.net/asahiushio1/202211-aacl-named-entity-recognition-in-twitter-a-dataset-and-analysis-on-shortterm-temporal-shifts">[slide]</a>
+<a href="https://arxiv.org/abs/2210.03797">[arxiv]</a>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
