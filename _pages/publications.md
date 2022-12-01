@@ -16,7 +16,7 @@ Generative Language Models for Paragraph-Level Question Generation: A Unified Be
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
 <a href="https://github.com/asahi417/lm-question-generation/blob/master/QG_BENCH.md">[dataset]</a>
 <a href="https://autoqg.net/">[demo (autoqg)]</a>
-<a href="https://www.slideshare.net/asahiushio1/202212-emnlp-generative-language-models-for-paragraphlevel-question-generation">[slide]</a>
+<a href="https://www.slideshare.net/asahiushio1/202212-emnlp-generative-language-models-for-paragraphlevel-question-generation-254070567">[slide]</a>
 <a href="https://arxiv.org/abs/2210.03992">[arxiv]</a>
 </p>
 
