@@ -32,13 +32,13 @@ TweetNLP: Cutting-Edge Natural Language Processing for Social Media <br>
 
 <p style="margin-left: 40px; text-indent: -40px;">
 <b>Asahi Ushio</b>, and Danushka Bollegala <br>
-Guiding Generative Language Models for Data Augmentation in Few-Shot Text Classification <br>
+Zero-shot Cross-Lingual Counterfactual Detection via Automatic Extraction and Prediction of Clue Phrases <br>
  <em>Proceedings of the 2nd Workshop on Multilingual Representation Learning </em>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
 Aleksandra Edwards, <b>Asahi Ushio</b>, Jose Camacho-Collados, Helene de Ribaupierre, and Alun Preece <br>
-Zero-shot Cross-Lingual Counterfactual Detection via Automatic Extraction and Prediction of Clue Phrases <br>
+Guiding Generative Language Models for Data Augmentation in Few-Shot Text Classification <br>
  <em>Proceedings of the 3rd Workshop on Data Science with Human in the Loop</em>
 </p>
 
