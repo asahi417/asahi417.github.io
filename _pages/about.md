@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in the [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science) at Cardiff University,
+Hello! I am a Ph.D student in the [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science) at Cardiff University,
 co-advised by [Jose-camacho Collados](http://josecamachocollados.com/) and [Steven Schockaert](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven).
 I study **relational knowledge representation in language model** and 
 application of language models in tasks such as 
 **named-entity recognition** (eg. [T-NER](https://github.com/asahi417/tner), [TweetNER7](https://huggingface.co/datasets/tner/tweetner7)) 
 and **question generation** (eg. [AutoQG](https://autoqg.net)).
 I also study NLP on social media, and I am a part of [TweetNLP](https://tweetnlp.org/), where I am developing the [core library](https://github.com/cardiffnlp/tweetnlp).   
+
+**NEWS:** I will be joining [Google Research](https://research.google/) as a research intern from June 2023.
 
 Representative Papers (see [full publication](https://asahiushio.com/publications)):
 - <b>Asahi Ushio</b>, Jose Camacho-Collados, and Steven Schockaert <br>
