@@ -6,6 +6,27 @@ author_profile: true
 
 {% include base_path %}
 
+# 2023
+
+<p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Fernando Alva-Manchego, and Jose Camacho-Collados <br>
+A Practical Toolkit for Multilingual Question and Answer Generation <br>
+ <em>Proceedings of ACL 2023 System Demonstration </em>
+<a href="https://github.com/asahi417/lm-question-generation">[code]</a>
+<a href="https://autoqg.net/">[demo (autoqg)]</a>
+<a href="https://asahiushio.com/files/paper_2023_acl_demo.pdf">[arxiv]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Fernando Alva-Manchego, and Jose Camacho-Collados <br>
+An Empirical Comparison of LM-based Question and Answer Generation Methods <br>
+ <em>Proceedings of ACL 2023 Findings </em>
+<a href="https://github.com/asahi417/lm-question-generation">[code]</a>
+<a href="https://autoqg.net/">[demo (autoqg)]</a>
+<a href="https://asahiushio.com/files/paper_2023_acl_qag.pdf">[arxiv]</a>
+</p>
+
 # 2022
 
 
