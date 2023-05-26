@@ -14,6 +14,7 @@ A Practical Toolkit for Multilingual Question and Answer Generation <br>
  <em>Proceedings of ACL 2023 System Demonstration </em>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
 <a href="https://autoqg.net/">[demo (autoqg)]</a>
+<a href="https://www.slideshare.net/asahiushio1/202307-acl-a-practical-toolkit-for-multilingual-question-and-answer-generationpdf">[slide]</a>
 <a href="https://asahiushio.com/files/paper_2023_acl_demo.pdf">[arxiv]</a>
 </p>
 
