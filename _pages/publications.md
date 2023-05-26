@@ -27,6 +27,24 @@ An Empirical Comparison of LM-based Question and Answer Generation Methods <br>
 <a href="https://asahiushio.com/files/paper_2023_acl_qag.pdf">[arxiv]</a>
 </p>
 
+
+<p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
+A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br>
+ <em>arXiv:2305.15002</em>
+<a href="https://github.com/asahi417/lm-vocab-trimmer">[code]</a>
+<a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Yi Zhou, Jose Camacho-Collados <br>
+An Efficient Multilingual Language Model Compression through Vocabulary Trimming <br>
+ <em>arXiv:2305.15020</em>
+<a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
+<a href="https://arxiv.org/abs/2305.15020">[arxiv]</a>
+</p>
+
 # 2022
 
 
