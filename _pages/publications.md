@@ -25,7 +25,7 @@ An Empirical Comparison of LM-based Question and Answer Generation Methods <br>
  <em>Proceedings of ACL 2023 Findings </em>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
 <a href="https://autoqg.net/">[demo (autoqg)]</a>
-<a href="https://asahiushio.com/files/paper_2023_acl_qag.pdf">[arxiv]</a>
+<a href="https://arxiv.org/abs/2305.17002">[arxiv]</a>
 </p>
 
 
