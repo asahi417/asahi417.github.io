@@ -9,6 +9,24 @@ author_profile: true
 # 2023
 
 <p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Yi Zhou, Jose Camacho-Collados <br>
+An Efficient Multilingual Language Model Compression through Vocabulary Trimming <br>
+ <em>Proceedings of EMNLP 2023 Findings</em>
+<a href="https://github.com/asahi417/lm-vocab-trimmer">[code]</a>
+<a href="https://arxiv.org/abs/2305.15020">[arxiv]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
+Dimosthenis Antypas, <b>Asahi Ushio</b>, Francesco Barbieri, Leonardo Neves, Kiamehr Rezaee, Luis Espinosa-Anke, Jiaxin Pei, Jose Camacho-Collados<br>
+SuperTweetEval: A Challenging, Unified and Heterogeneous Benchmark for Social Media NLP Research <br>
+ <em>Proceedings of EMNLP 2023 Findings</em>
+<a href="https://github.com/cardiffnlp/super-tweeteval">[code]</a>
+<a href="https://huggingface.co/datasets/cardiffnlp/super_tweeteval">[dataset]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
 <b>Asahi Ushio</b>, Fernando Alva-Manchego, and Jose Camacho-Collados <br>
 A Practical Toolkit for Multilingual Question and Answer Generation <br>
  <em>Proceedings of ACL 2023 System Demonstration </em>
@@ -33,18 +51,10 @@ An Empirical Comparison of LM-based Question and Answer Generation Methods <br>
 <b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
 A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br>
  <em>arXiv:2305.15002</em>
-<a href="https://github.com/asahi417/lm-vocab-trimmer">[code]</a>
+<a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
 <a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
 </p>
 
-
-<p style="margin-left: 40px; text-indent: -40px;">
-<b>Asahi Ushio</b>, Yi Zhou, Jose Camacho-Collados <br>
-An Efficient Multilingual Language Model Compression through Vocabulary Trimming <br>
- <em>arXiv:2305.15020</em>
-<a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
-<a href="https://arxiv.org/abs/2305.15020">[arxiv]</a>
-</p>
 
 # 2022
 
