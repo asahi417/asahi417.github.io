@@ -56,6 +56,14 @@ A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br
 </p>
 
 
+<p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
+RelBERT: Embedding Relations with Language Models <br>
+ <em>arXiv:2305.15002</em>
+<a href="https://arxiv.org/abs/2310.00299">[arxiv]</a>
+</p>
+
+
 # 2022
 
 
