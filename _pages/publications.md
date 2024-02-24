@@ -6,6 +6,18 @@ author_profile: true
 
 {% include base_path %}
 
+# 2024
+
+<p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
+A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br>
+<em>Proceedings of EACL 2024 Main Conference</em>
+ <em>arXiv:2305.15002</em>
+<a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
+<a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
+</p>
+
+
 # 2023
 
 <p style="margin-left: 40px; text-indent: -40px;">
@@ -44,15 +56,6 @@ An Empirical Comparison of LM-based Question and Answer Generation Methods <br>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
 <a href="https://autoqg.net/">[demo (autoqg)]</a>
 <a href="https://arxiv.org/abs/2305.17002">[arxiv]</a>
-</p>
-
-
-<p style="margin-left: 40px; text-indent: -40px;">
-<b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
-A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br>
- <em>arXiv:2305.15002</em>
-<a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
-<a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
 </p>
 
 
