@@ -11,8 +11,7 @@ author_profile: true
 <p style="margin-left: 40px; text-indent: -40px;">
 <b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
 A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br>
-<em>Proceedings of EACL 2024 Main Conference</em>
- <em>arXiv:2305.15002</em>
+<em>Proceedings of EACL 2024 Main Conference</em> 
 <a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
 <a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
 </p>
