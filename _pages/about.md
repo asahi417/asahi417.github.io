@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D student in the [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science) at Cardiff University,
+Hello! I am an Applied Scientist at Amazon studying information retrieval and product search, and former Ph.D student in the [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science) at Cardiff University,
 co-advised by [Jose-camacho Collados](http://josecamachocollados.com/) and [Steven Schockaert](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven).
-I study **relational knowledge representation in language model** and 
+During my PhD, I studied **relational knowledge representation in language model** and 
 application of language models in tasks such as 
 **named-entity recognition** (eg. [T-NER](https://github.com/asahi417/tner), [TweetNER7](https://huggingface.co/datasets/tner/tweetner7)) 
 and **question generation** (eg. [AutoQG](https://autoqg.net)).
-I also study NLP on social media, and I am a part of [TweetNLP](https://tweetnlp.org/), where I am developing the [core library](https://github.com/cardiffnlp/tweetnlp).   
-
-**NEWS:** I will be joining [Google Research](https://research.google/) as a research intern from June 2023.
+I also studied NLP on social media, and I am a part of [TweetNLP](https://tweetnlp.org/), where I am developing the [core library](https://github.com/cardiffnlp/tweetnlp).   
 
 Representative Papers (see [full publication](https://asahiushio.com/publications)):
 - <b>Asahi Ushio</b>, Jose Camacho-Collados, and Steven Schockaert <br>
@@ -43,8 +41,7 @@ Open Source Projects:
 - [***TweetNLP***](https://github.com/cardiffnlp/tweetnlp): A python library of comprehensive NLP solutions tailored for Twitter.
 - [***KEX***](https://pypi.org/project/kex): A python library of modern graph-based keyphrase extraction.
 
-In 2021, I did research internships at Amazon supervised by [Danushka Bollegala](https://danushka.net/),
-and Snapchat co-supervised by [Francesco Barbieri](https://research.snap.com/team/francesco-barbieri/), [Vítor Silva Sousa](https://research.snap.com/team/vitor-silva-sousa), and
+In 2023, I did a research internship at [Google Research](https://research.google/) working on MusicLM team supervised by [Andrea Agostinelli](https://scholar.google.it/citations?user=NM85zIEAAAAJ&hl=en). In 2021, I did research internships at Amazon supervised by [Danushka Bollegala](https://danushka.net/), and Snapchat co-supervised by [Francesco Barbieri](https://research.snap.com/team/francesco-barbieri/), [Vítor Silva Sousa](https://research.snap.com/team/vitor-silva-sousa), and
 [Leonardo Neves](https://research.snap.com/team/leonardo-neves/).
 Before joining Cardiff University, I had been a full-time research engineer at [Cogent Labs](https://www.cogent.co.jp/en/) from 2018 to 2020.
 Aside from NLP, I spend some time on the research of **computational art** ([WikiART Face](https://asahi417.github.io/projects/wikiart_face/)).
