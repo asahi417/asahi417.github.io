@@ -14,6 +14,7 @@ application of language models in tasks such as
 **named-entity recognition** (eg. [T-NER](https://github.com/asahi417/tner), [TweetNER7](https://huggingface.co/datasets/tner/tweetner7)) 
 and **question generation** (eg. [AutoQG](https://autoqg.net)).
 I also studied NLP on social media, and I am a part of [TweetNLP](https://tweetnlp.org/), where I am developing the [core library](https://github.com/cardiffnlp/tweetnlp).   
+Aside from my role at Amazon, I am collaborating with [Kotoba-technologies](https://www.kotoba.tech) for research on bilingual speech foundation model of Japanese and English.
 
 Representative Papers (see [full publication](https://asahiushio.com/publications)):
 - <b>Asahi Ushio</b>, Jose Camacho-Collados, and Steven Schockaert <br>
