@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+a# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Asahi Ushio"
-description              : &description "Ph.D student at Cardiff University"
+name                     : &name "Dr. Asahi Ushio"
+description              : &description "Applied Scientist, Amazon"
 url                      : https://asahi417.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asahi417/asahi417.github.io"
