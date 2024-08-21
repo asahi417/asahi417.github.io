@@ -32,6 +32,14 @@ A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br
 # 2023
 
 <p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b> <br>
+Representing Relational Knowledge with Language Models <br>
+ <em>Ph.D. Thesis, Cardiff University, 2023</em>
+<a href="https://orca.cardiff.ac.uk/id/eprint/168141/1/thesis_clean.pdf">[thesis pdf]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
 <b>Asahi Ushio</b>, Yi Zhou, Jose Camacho-Collados <br>
 An Efficient Multilingual Language Model Compression through Vocabulary Trimming <br>
  <em>Proceedings of EMNLP 2023 Findings</em>
@@ -221,7 +229,7 @@ Projection-based Regularized Dual Averaging for Stochastic Optimization with Its
  <em>Master thesis, Keio University, 2018</em>
 <a href="https://github.com/asahi417/StochasticOptimizers">[code]</a>
 <a href="https://asahiushio.com/publications/201712-keio-university-projectionbased-regularized-dual-averaging-for-stochastic-optimization-with-its-applications-to-classification-and-regression">[slide]</a>
-<a href="https://asahiushio.com/publications/2017_master_thesis.pdf">[paper]</a>
+<a href="https://asahiushio.com/publications/2017_master_thesis.pdf">[thesis pdf]</a>
 </p>
 
 
