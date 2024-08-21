@@ -9,10 +9,21 @@ author_profile: true
 # 2024
 
 <p style="margin-left: 40px; text-indent: -40px;">
+<b>Asahi Ushio</b>, and Jose Camacho Collados <br>
+A Systematic Analysis on the Temporal Generalization of Language Models in Social Media <br>
+<em>Proceedings of 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis</em> 
+<a href="https://huggingface.co/datasets/tweettemposhift/tweet_temporal_shift">[dataset]</a>
+<a href="https://aclanthology.org/2024.wassa-1.5/">[acl anthology]</a>
+<a href="https://arxiv.org/abs/2405.13017">[arxiv]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
 <b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
 A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br>
 <em>Proceedings of EACL 2024 Main Conference</em> 
 <a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
+<a href="https://aclanthology.org/2021.acl-long.280">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
 </p>
 
@@ -24,6 +35,7 @@ A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br
 An Efficient Multilingual Language Model Compression through Vocabulary Trimming <br>
  <em>Proceedings of EMNLP 2023 Findings</em>
 <a href="https://github.com/asahi417/lm-vocab-trimmer">[code]</a>
+<a href="https://aclanthology.org/2023.findings-emnlp.981">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.15020">[arxiv]</a>
 </p>
 
@@ -32,8 +44,9 @@ An Efficient Multilingual Language Model Compression through Vocabulary Trimming
 Dimosthenis Antypas, <b>Asahi Ushio</b>, Francesco Barbieri, Leonardo Neves, Kiamehr Rezaee, Luis Espinosa-Anke, Jiaxin Pei, Jose Camacho-Collados<br>
 SuperTweetEval: A Challenging, Unified and Heterogeneous Benchmark for Social Media NLP Research <br>
  <em>Proceedings of EMNLP 2023 Findings</em>
-<a href="https://github.com/cardiffnlp/super-tweeteval">[code]</a>
 <a href="https://huggingface.co/datasets/cardiffnlp/super_tweeteval">[dataset]</a>
+<a href="https://github.com/cardiffnlp/super-tweeteval">[code]</a>
+<a href="https://aclanthology.org/2023.findings-emnlp.838/">[acl anthology]</a>
 </p>
 
 
@@ -42,8 +55,8 @@ SuperTweetEval: A Challenging, Unified and Heterogeneous Benchmark for Social Me
 A Practical Toolkit for Multilingual Question and Answer Generation <br>
  <em>Proceedings of ACL 2023 System Demonstration </em>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
-<a href="https://autoqg.net/">[demo (autoqg)]</a>
 <a href="https://www.slideshare.net/asahiushio1/202307-acl-a-practical-toolkit-for-multilingual-question-and-answer-generationpdf">[slide]</a>
+<a href="https://aclanthology.org/2023.acl-demo.8/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.17416">[arxiv]</a>
 </p>
 
@@ -53,7 +66,7 @@ A Practical Toolkit for Multilingual Question and Answer Generation <br>
 An Empirical Comparison of LM-based Question and Answer Generation Methods <br>
  <em>Proceedings of ACL 2023 Findings </em>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
-<a href="https://autoqg.net/">[demo (autoqg)]</a>
+<a href="https://aclanthology.org/2023.findings-acl.899/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.17002">[arxiv]</a>
 </p>
 
@@ -73,10 +86,10 @@ RelBERT: Embedding Relations with Language Models <br>
 <b>Asahi Ushio</b>, Fernando Alva-Manchego, and Jose Camacho-Collados <br>
 Generative Language Models for Paragraph-Level Question Generation: A Unified Benchmark and Evaluation <br>
  <em>Proceedings of EMNLP 2022 Main Conference </em>
-<a href="https://github.com/asahi417/lm-question-generation">[code]</a>
 <a href="https://github.com/asahi417/lm-question-generation/blob/master/QG_BENCH.md">[dataset]</a>
-<a href="https://autoqg.net/">[demo (autoqg)]</a>
+<a href="https://github.com/asahi417/lm-question-generation">[code]</a>
 <a href="https://www.slideshare.net/asahiushio1/202212-emnlp-generative-language-models-for-paragraphlevel-question-generation-254849108">[slide]</a>
+<a href="https://aclanthology.org/2022.emnlp-main.42/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2210.03992">[arxiv]</a>
 </p>
 
@@ -86,20 +99,23 @@ Jose Camacho-Collados, Kiamehr Rezaee, Talayeh Riahi, <b>Asahi Ushio</b>, Daniel
 TweetNLP: Cutting-Edge Natural Language Processing for Social Media <br>
  <em>Proceedings of EMNLP 2022 System Demonstration</em>
 <a href="https://github.com/cardiffnlp/tweetnlp">[code]</a>
-<a href="https://tweetnlp.org/">[home page]</a>
+<a href="https://aclanthology.org/2022.emnlp-demos.5/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2206.14774">[arxiv]</a>
+<a href="https://tweetnlp.org/">[demo]</a>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
 <b>Asahi Ushio</b>, and Danushka Bollegala <br>
 Zero-shot Cross-Lingual Counterfactual Detection via Automatic Extraction and Prediction of Clue Phrases <br>
  <em>Proceedings of the 2nd Workshop on Multilingual Representation Learning </em>
+<a href="https://aclanthology.org/2022.mrl-1.3/">[acl anthology]</a>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
 Aleksandra Edwards, <b>Asahi Ushio</b>, Jose Camacho-Collados, Helene de Ribaupierre, and Alun Preece <br>
 Guiding Generative Language Models for Data Augmentation in Few-Shot Text Classification <br>
  <em>Proceedings of the 3rd Workshop on Data Science with Human in the Loop</em>
+<a href="https://aclanthology.org/2022.dash-1.8/">[acl anthology]</a>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
@@ -109,6 +125,7 @@ Named Entity Recognition in Twitter: A Dataset and Analysis on Short-Term Tempor
 <a href="https://huggingface.co/datasets/tner/tweetner7">[dataset]</a>
 <a href="https://github.com/asahi417/tner/tree/master/examples/tweetner7_paper">[code]</a>
 <a href="https://www.slideshare.net/asahiushio1/202211-aacl-named-entity-recognition-in-twitter-a-dataset-and-analysis-on-shortterm-temporal-shifts">[slide]</a>
+<a href="https://aclanthology.org/2022.aacl-main.25/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2210.03797">[arxiv]</a>
 </p>
 
@@ -116,9 +133,9 @@ Named Entity Recognition in Twitter: A Dataset and Analysis on Short-Term Tempor
 Dimosthenis Antypas*, <b>Asahi Ushio*</b>, Jose Camacho-Collados, Leonardo Neves, Vitor Silva, and Francesco Barbieri <br>
 Twitter Topic Classification (*equal contribution)<br>
  <em>Proceedings of COLING 2022 Main Conference</em>
-<a href="https://aclanthology.org/2022.coling-1.299/">[acl anthology]</a>
 <a href="https://huggingface.co/datasets/cardiffnlp/tweet_topic_multi">[dataset (multi)]</a>
 <a href="https://huggingface.co/datasets/cardiffnlp/tweet_topic_single">[dataset (single)]</a>
+<a href="https://aclanthology.org/2022.coling-1.299/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2209.09824">[arxiv]</a>
 </p>
 
@@ -129,7 +146,6 @@ Twitter Topic Classification (*equal contribution)<br>
 <b>Asahi Ushio</b>, Jose Camacho-Collados, and Steven Schockaert <br>
 Distilling Relation Embeddings from Pre-trained Language Models  <br>
  <em>Proceedings of EMNLP 2021 Main Conference</em>
-<a href="https://aclanthology.org/2021.emnlp-main.712.pdf">[pdf]</a>
 <a href="https://github.com/asahi417/relbert">[code]</a>
 <a href="https://www.slideshare.net/asahiushio1/202111-emnlp-distilling-relation-embeddings-from-pretrained-language-models">[slide]</a>
 <a href="https://aclanthology.org/2021.emnlp-main.712">[acl anthology]</a>
@@ -141,7 +157,6 @@ Distilling Relation Embeddings from Pre-trained Language Models  <br>
 <b>Asahi Ushio</b>, Federico Liberatore, and Jose Camacho-Collados <br>
 Back to the Basics: A Quantitative Analysis of Statistical and Graph-Based Term Weighting Schemes for Keyword Extraction <br>
  <em>Proceedings of EMNLP 2021 Main Conference</em>
-<a href="https://aclanthology.org/2021.emnlp-main.638.pdf">[pdf]</a>
 <a href="https://github.com/asahi417/kex">[code]</a>
 <a href="https://www.slideshare.net/asahiushio1/202111-emnlp-back-to-the-basics-a-quantitative-analysis-of-statistical-and-graphbased-term-weighting-schemes-for-keyword-extraction">[slide]</a>
 <a href="https://aclanthology.org/2021.emnlp-main.638">[acl anthology]</a>
@@ -152,7 +167,6 @@ Back to the Basics: A Quantitative Analysis of Statistical and Graph-Based Term 
 <b>Asahi Ushio</b>, Luis Espinosa-Anke, Steven Schockaert, and Jose Camacho-Collados <br>
 BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies? <br>
  <em>Proceedings of ACL-IJCNLP 2021 Main Conference</em>
-<a href="https://aclanthology.org/2021.acl-long.280.pdf">[pdf]</a>
 <a href="https://github.com/asahi417/analogy-language-model">[code]</a>
 <a href="https://www.slideshare.net/asahiushio1/202105-acl-bert-is-to-nlp-what-alexnet-is-to-cv-can-pretrained-language-models-identify-analogies">[slide]</a>
 <a href="https://aclanthology.org/2021.acl-long.280">[acl anthology]</a>
@@ -163,7 +177,6 @@ BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify A
 <b>Asahi Ushio</b> and Jose Camacho-Collados <br>
 T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition <br>
  <em>Proceedings of EACL 2021 System Demonstration</em>
-<a href="https://www.aclweb.org/anthology/2021.eacl-demos.7.pdf">[pdf]</a>
 <a href="https://github.com/asahi417/tner">[code]</a>
 <a href="https://www.slideshare.net/asahiushio1/202104-eacl-tner-an-allround-python-library-for-transformerbased-named-entity-recognition">[slide]</a>
 <a href="https://www.aclweb.org/anthology/2021.eacl-demos.7">[acl anthology]</a>
