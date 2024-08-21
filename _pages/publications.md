@@ -9,7 +9,7 @@ author_profile: true
 # 2024
 
 <p style="margin-left: 40px; text-indent: -40px;">
-<b>Asahi Ushio</b>, and Jose Camacho Collados <br>
+<b>Asahi Ushio</b> and Jose Camacho Collados <br>
 A Systematic Analysis on the Temporal Generalization of Language Models in Social Media <br>
 <em>Proceedings of 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis</em> 
 <a href="https://huggingface.co/datasets/tweettemposhift/tweet_temporal_shift">[dataset]</a>
@@ -23,6 +23,7 @@ A Systematic Analysis on the Temporal Generalization of Language Models in Socia
 A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br>
 <em>Proceedings of EACL 2024 Main Conference</em> 
 <a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
+<a href="https://asahiushio.com/publications/202403eaclrelentless-240821041042-1ac2c546.pdf">[slide]</a>
 <a href="https://aclanthology.org/2021.acl-long.280">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
 </p>
@@ -55,7 +56,7 @@ SuperTweetEval: A Challenging, Unified and Heterogeneous Benchmark for Social Me
 A Practical Toolkit for Multilingual Question and Answer Generation <br>
  <em>Proceedings of ACL 2023 System Demonstration </em>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/202307-acl-a-practical-toolkit-for-multilingual-question-and-answer-generationpdf">[slide]</a>
+<a href="https://asahiushio.com/publications/2023-07aclapracticaltoolkitformultilingualquestionandanswergeneration-230526175017-9ad1eb0f.pdf">[slide]</a>
 <a href="https://aclanthology.org/2023.acl-demo.8/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.17416">[arxiv]</a>
 </p>
@@ -75,6 +76,7 @@ An Empirical Comparison of LM-based Question and Answer Generation Methods <br>
 <b>Asahi Ushio</b>, Jose Camacho Collados, Steven Schockaert <br>
 RelBERT: Embedding Relations with Language Models <br>
  <em>arXiv:2305.15002</em>
+<a href="https://github.com/asahi417/relbert">[code]</a>
 <a href="https://arxiv.org/abs/2310.00299">[arxiv]</a>
 </p>
 
@@ -88,7 +90,7 @@ Generative Language Models for Paragraph-Level Question Generation: A Unified Be
  <em>Proceedings of EMNLP 2022 Main Conference </em>
 <a href="https://github.com/asahi417/lm-question-generation/blob/master/QG_BENCH.md">[dataset]</a>
 <a href="https://github.com/asahi417/lm-question-generation">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/202212-emnlp-generative-language-models-for-paragraphlevel-question-generation-254849108">[slide]</a>
+<a href="https://asahiushio.com/publications/202212emnlpqg2-221210121802-1a8fe2f0.pdf">[slide]</a>
 <a href="https://aclanthology.org/2022.emnlp-main.42/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2210.03992">[arxiv]</a>
 </p>
@@ -99,13 +101,13 @@ Jose Camacho-Collados, Kiamehr Rezaee, Talayeh Riahi, <b>Asahi Ushio</b>, Daniel
 TweetNLP: Cutting-Edge Natural Language Processing for Social Media <br>
  <em>Proceedings of EMNLP 2022 System Demonstration</em>
 <a href="https://github.com/cardiffnlp/tweetnlp">[code]</a>
+<a href="https://tweetnlp.org/">[demo]</a>
 <a href="https://aclanthology.org/2022.emnlp-demos.5/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2206.14774">[arxiv]</a>
-<a href="https://tweetnlp.org/">[demo]</a>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-<b>Asahi Ushio</b>, and Danushka Bollegala <br>
+<b>Asahi Ushio</b> and Danushka Bollegala <br>
 Zero-shot Cross-Lingual Counterfactual Detection via Automatic Extraction and Prediction of Clue Phrases <br>
  <em>Proceedings of the 2nd Workshop on Multilingual Representation Learning </em>
 <a href="https://aclanthology.org/2022.mrl-1.3/">[acl anthology]</a>
@@ -124,7 +126,7 @@ Named Entity Recognition in Twitter: A Dataset and Analysis on Short-Term Tempor
  <em>Proceedings of AACL 2022 Main Conference</em>
 <a href="https://huggingface.co/datasets/tner/tweetner7">[dataset]</a>
 <a href="https://github.com/asahi417/tner/tree/master/examples/tweetner7_paper">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/202211-aacl-named-entity-recognition-in-twitter-a-dataset-and-analysis-on-shortterm-temporal-shifts">[slide]</a>
+<a href="https://asahiushio.com/publications/202211aacltwitterner7-221027024325-ee319d8e.pdf">[slide]</a>
 <a href="https://aclanthology.org/2022.aacl-main.25/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2210.03797">[arxiv]</a>
 </p>
@@ -147,10 +149,9 @@ Twitter Topic Classification (*equal contribution)<br>
 Distilling Relation Embeddings from Pre-trained Language Models  <br>
  <em>Proceedings of EMNLP 2021 Main Conference</em>
 <a href="https://github.com/asahi417/relbert">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/202111-emnlp-distilling-relation-embeddings-from-pretrained-language-models">[slide]</a>
+<a href="https://asahiushio.com/publications/202111emnlprelbert-211224171115.pdf">[slide]</a>
 <a href="https://aclanthology.org/2021.emnlp-main.712">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2110.15705">[arxiv]</a>
-<a href="https://huggingface.co/spaces/relbert/Analogy">[demo]</a>
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
@@ -158,7 +159,7 @@ Distilling Relation Embeddings from Pre-trained Language Models  <br>
 Back to the Basics: A Quantitative Analysis of Statistical and Graph-Based Term Weighting Schemes for Keyword Extraction <br>
  <em>Proceedings of EMNLP 2021 Main Conference</em>
 <a href="https://github.com/asahi417/kex">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/202111-emnlp-back-to-the-basics-a-quantitative-analysis-of-statistical-and-graphbased-term-weighting-schemes-for-keyword-extraction">[slide]</a>
+<a href="https://asahiushio.com/publications/202111emnlpbacktobasics-211224170946.pdf">[slide]</a>
 <a href="https://aclanthology.org/2021.emnlp-main.638">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2104.08028">[arxiv]</a>
 </p>
@@ -168,7 +169,7 @@ Back to the Basics: A Quantitative Analysis of Statistical and Graph-Based Term 
 BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies? <br>
  <em>Proceedings of ACL-IJCNLP 2021 Main Conference</em>
 <a href="https://github.com/asahi417/analogy-language-model">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/202105-acl-bert-is-to-nlp-what-alexnet-is-to-cv-can-pretrained-language-models-identify-analogies">[slide]</a>
+<a href="https://asahiushio.com/publications/202108aclanalogylm-211224170522.pdf">[slide]</a>
 <a href="https://aclanthology.org/2021.acl-long.280">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2105.04949">[arxiv]</a>
 </p>
@@ -178,10 +179,10 @@ BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify A
 T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition <br>
  <em>Proceedings of EACL 2021 System Demonstration</em>
 <a href="https://github.com/asahi417/tner">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/202104-eacl-tner-an-allround-python-library-for-transformerbased-named-entity-recognition">[slide]</a>
+<a href="https://huggingface.co/spaces/tner/NER">[demo]</a>
+<a href="https://asahiushio.com/publications/202104eacltner-211224170032.pdf">[slide]</a>
 <a href="https://www.aclweb.org/anthology/2021.eacl-demos.7">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2209.12616">[arxiv]</a>
-<a href="https://huggingface.co/spaces/tner/NER">[demo]</a>
 </p>
 
 # 2019
@@ -198,15 +199,17 @@ Latent Space Cartography: Generalised Metric-Inspired Measures and Measure-Based
 <b>Asahi Ushio</b> and Masahiro Yukawa <br>
 Projection-based Regularized Dual Averaging for Stochastic Optimization <br>
  <em>IEEE Trans. Signal Processing 2019</em>
-<a href="https://ieeexplore.ieee.org/abstract/document/8680689">[pdf]</a>
 <a href="https://github.com/asahi417/StochasticOptimizers">[code]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8680689">[ieee explorer]</a>
+<a href="https://asahiushio.com/publications/2019_tsp_pda.pdf">[paper]</a>
 </p>
+
 
 <p style="margin-left: 40px; text-indent: -40px;">
 Ken McAlinn, <b>Asahi Ushio</b>, and Teruo Nakatsuma <br>
 Volatility Forecasts Using Nonlinear Leverage Effects <br>
  <em>Journal of Forecasting, 2019</em>
-<a href="https://arxiv.org/pdf/1605.06482.pdf">[pdf]</a>
+<a href="https://arxiv.org/abs/1605.06482">[arxiv]</a>
 </p>
 
 
@@ -216,10 +219,11 @@ Volatility Forecasts Using Nonlinear Leverage Effects <br>
 <b>Asahi Ushio</b><br>
 Projection-based Regularized Dual Averaging for Stochastic Optimization with Its Applications to Classification and Regression <br>
  <em>Master thesis, Keio University, 2018</em>
-<a href="2017_master_thesis.pdf">[pdf]</a>
 <a href="https://github.com/asahi417/StochasticOptimizers">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/201712-keio-university-projectionbased-regularized-dual-averaging-for-stochastic-optimization-with-its-applications-to-classification-and-regression">[slide]</a>
+<a href="https://asahiushio.com/publications/201712-keio-university-projectionbased-regularized-dual-averaging-for-stochastic-optimization-with-its-applications-to-classification-and-regression">[slide]</a>
+<a href="https://asahiushio.com/publications/2017_master_thesis.pdf">[paper]</a>
 </p>
+
 
 # 2017
 
@@ -227,7 +231,7 @@ Projection-based Regularized Dual Averaging for Stochastic Optimization with Its
 <b>Asahi Ushio</b> and Masahiro Yukawa <br>
 Projection-based Regularized Dual Averaging for Stochastic Optimization <br>
  <em>Proceedings of ICASSP 2017</em>
-<a href="https://ieeexplore.ieee.org/abstract/document/7952568">[pdf]</a>
 <a href="https://github.com/asahi417/StochasticOptimizers">[code]</a>
-<a href="https://www.slideshare.net/asahiushio1/201703-icassp-projectionbased-dual-averaging-for-stochastic-sparse-optimization">[slide]</a>
+<a href="https://asahiushio.com/publications/201703-icassp-projectionbased-dual-averaging-for-stochastic-sparse-optimization">[slide]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/7952568">[ieee explorer]</a>
 </p>
