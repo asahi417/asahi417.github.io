@@ -45,6 +45,7 @@ Representing Relational Knowledge with Language Models <br>
 An Efficient Multilingual Language Model Compression through Vocabulary Trimming <br>
  <em>Proceedings of EMNLP 2023 Findings</em>
 <a href="https://github.com/asahi417/lm-vocab-trimmer">[code]</a>
+<a href="https://asahiushio.com/publications/202402amazoninternalvt-240822074142-b9799c4d.pdf">[slide]</a>
 <a href="https://aclanthology.org/2023.findings-emnlp.981">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.15020">[arxiv]</a>
 </p>
