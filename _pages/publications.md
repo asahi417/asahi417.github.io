@@ -35,6 +35,7 @@ A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br
 <b>Asahi Ushio</b> <br>
 Representing Relational Knowledge with Language Models <br>
  <em>Ph.D. Thesis, Cardiff University, 2023</em>
+<a href="https://asahiushio.com/publications/202312phdviva-240821042356-7988aa65.pdf">[slide]</a>
 <a href="https://orca.cardiff.ac.uk/id/eprint/168141/1/thesis_clean.pdf">[thesis pdf]</a>
 </p>
 
@@ -228,7 +229,7 @@ Volatility Forecasts Using Nonlinear Leverage Effects <br>
 Projection-based Regularized Dual Averaging for Stochastic Optimization with Its Applications to Classification and Regression <br>
  <em>Master thesis, Keio University, 2018</em>
 <a href="https://github.com/asahi417/StochasticOptimizers">[code]</a>
-<a href="https://asahiushio.com/publications/201712-keio-university-projectionbased-regularized-dual-averaging-for-stochastic-optimization-with-its-applications-to-classification-and-regression">[slide]</a>
+<a href="https://asahiushio.com/publications/2017masterthesisslide-211224172803.pdf">[slide]</a>
 <a href="https://asahiushio.com/publications/2017_master_thesis.pdf">[thesis pdf]</a>
 </p>
 
@@ -240,6 +241,6 @@ Projection-based Regularized Dual Averaging for Stochastic Optimization with Its
 Projection-based Regularized Dual Averaging for Stochastic Optimization <br>
  <em>Proceedings of ICASSP 2017</em>
 <a href="https://github.com/asahi417/StochasticOptimizers">[code]</a>
-<a href="https://asahiushio.com/publications/201703-icassp-projectionbased-dual-averaging-for-stochastic-sparse-optimization">[slide]</a>
+<a href="https://asahiushio.com/publications/2017icassp-211224171723.pdf">[slide]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/7952568">[ieee explorer]</a>
 </p>

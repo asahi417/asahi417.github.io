@@ -12,9 +12,7 @@ co-advised by [Jose-camacho Collados](http://josecamachocollados.com/) and [Stev
 During my PhD, I studied **relational knowledge representation in language model** and 
 application of language models in tasks such as 
 **named-entity recognition** (eg. [T-NER](https://github.com/asahi417/tner), [TweetNER7](https://huggingface.co/datasets/tner/tweetner7)) 
-and **question generation** (eg. [AutoQG](https://autoqg.net)).
-I also studied NLP on social media, and I am a part of [TweetNLP](https://tweetnlp.org/), where I am developing the [core library](https://github.com/cardiffnlp/tweetnlp).   
-Aside from my role at Amazon, I am collaborating with [Kotoba-technologies](https://www.kotoba.tech) for research on bilingual speech foundation model of Japanese and English.
+and **question generation**. I also studied NLP on social media, and I am a part of [TweetNLP](https://tweetnlp.org/), where I am developing the [core library](https://github.com/cardiffnlp/tweetnlp). Aside from my role at Amazon, I am collaborating with [Kotoba-technologies](https://www.kotoba.tech) for research on bilingual speech foundation model of Japanese and English.
 
 Representative Papers (see [full publication](https://asahiushio.com/publications)):
 - <b>Asahi Ushio</b>, Jose Camacho-Collados, and Steven Schockaert <br>
@@ -38,7 +36,7 @@ BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify A
 
 Open Source Projects:
 - [***T-NER***](https://github.com/asahi417/tner): A python library to facilitate named-entity-recognition fine-tuning, evaluation, and inference via API.
-- [***AutoQG***](https://autoqg.net): Web application to run multi-lingual question generation models.
+- [***LMQG***](https://github.com/asahi417/lm-question-generation): Web application to run multi-lingual question generation models.
 - [***TweetNLP***](https://github.com/cardiffnlp/tweetnlp): A python library of comprehensive NLP solutions tailored for Twitter.
 - [***KEX***](https://pypi.org/project/kex): A python library of modern graph-based keyphrase extraction.
 
