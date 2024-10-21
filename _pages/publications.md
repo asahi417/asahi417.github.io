@@ -24,7 +24,7 @@ A RelEntLess Benchmark for Modelling Graded Relations between Named Entities <br
 <em>Proceedings of EACL 2024 Main Conference</em> 
 <a href="https://huggingface.co/datasets/cardiffnlp/relentless">[dataset]</a>
 <a href="https://asahiushio.com/publications/202403eaclrelentless-240821041042-1ac2c546.pdf">[slide]</a>
-<a href="https://aclanthology.org/2021.acl-long.280">[acl anthology]</a>
+<a href="https://aclanthology.org/2024.eacl-long.152/">[acl anthology]</a>
 <a href="https://arxiv.org/abs/2305.15002">[arxiv]</a>
 </p>
 
