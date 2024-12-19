@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Asahi Ushio"
-description              : &description "Applied Scientist, Amazon"
+description              : &description "Research Engineer, Google"
 url                      : https://asahi417.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asahi417/asahi417.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Asahi Ushio, PhD"
   avatar           : "profile.png"
-  bio              : "Applied Scientist"
-  location         : "Amazon, Tokyo"
+  bio              : "Research Engineer"
+  location         : "Google, London"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RstIo9oAAAAJ"
