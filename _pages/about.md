@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Applied Scientist at Amazon studying information retrieval and product search, and former Ph.D student in the [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science) at Cardiff University,
+Hello! I am a Research Engineer at Google Research, London working on multi-media generation.
+Previously, I was an applied scientist at Amazon working on information retrieval and product search, and 
+a former Ph.D student in the [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science) at Cardiff University,
 co-advised by [Jose-camacho Collados](http://josecamachocollados.com/) and [Steven Schockaert](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven).
 During my PhD, I studied **relational knowledge representation in language model** and 
 application of language models in tasks such as 
