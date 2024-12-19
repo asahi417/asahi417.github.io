@@ -8,6 +8,23 @@ author_profile: true
 
 # 2024
 
+
+<p style="margin-left: 40px; text-indent: -40px;">
+Joanne Boisson, <b>Asahi Ushio</b>, Hsuvas Borkakoty, Kiamehr Rezaee, Dimosthenis Antypas, Zara Siddique, Nina White, Jose Camacho-Collados <br>
+How Are Metaphors Processed by Language Models? The Case of Analogies <br>
+<em>Proceedings of CoNLL 2024 Main Conference </em>
+<a href="https://aclanthology.org/2024.conll-1.28/">[acl anthology]</a>
+</p>
+
+
+<p style="margin-left: 40px; text-indent: -40px;">
+Dimosthenis Antypas, <b>Asahi Ushio</b>, Francesco Barbieri, Jose Camacho-Collados <br>
+Multilingual Topic Classification in X: Dataset and Analysis <br>
+<em>Proceedings of EMNLP 2024 Main Conference </em>
+<a href="https://aclanthology.org/2024.emnlp-main.1123/">[acl anthology]</a>
+</p>
+
+
 <p style="margin-left: 40px; text-indent: -40px;">
 <b>Asahi Ushio</b> and Jose Camacho Collados <br>
 A Systematic Analysis on the Temporal Generalization of Language Models in Social Media <br>
